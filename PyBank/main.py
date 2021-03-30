@@ -7,7 +7,6 @@ budget=os.path.join("Resources","Lessons_03-Python_Homework_Instructions_PyBank_
 
 #1. The total number of months included in the dataset: 86
 months=[]
-string=months
 
 with open(budget, newline='') as csvfile:
      csvreader = csv.reader(csvfile, delimiter=',')
@@ -16,11 +15,8 @@ with open(budget, newline='') as csvfile:
         # Add month
         months.append(row[0])
         #print (months)        
-index_months=[string.count(month) for month in months]
-#print (index_months)
-total_months=sum(index_months)
+total_months=len(months)
 #print(total_months)
-
 
 #2. The net total amount of "Profit/Losses" over the entire period: $38382578
 pl=[]
@@ -60,6 +56,15 @@ date_decrease=months[(change.index(decrease)+1)]
 #print(months[43+1], decrease)
 
 #6. Print the analysis to the terminal and export a text file with the results.
+print("Financial Analysis")
+print("-----------------------")
+print ("Total Months: " + str(total_months))
+print("Total: $" + str(total_pl))
+print ("Average Change: $" + str(average_change))
+print("Greatest Increase in Profits:" +str(date_increase) +" ($" + str(increase) +")")
+print("Greatest Decrease in Profits:" +str(date_decrease) +" ($" + str(decrease) +")")
+
+
 results= os.path.join("analysis","results.txt")
 with open(results, "w") as outfile:
     outfile.write("Financial Analysis\n")
