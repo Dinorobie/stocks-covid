@@ -7,7 +7,7 @@ ___
 - Omar Rivera (paste your github link here)
 - [Juan Fernandez](https://github.com/JuanjoFernandez)
 - Roberto Sepulveda (paste your github link here)
-- Viviana Aragón (paste your github link here)
+- [Viviana Aragón](https://github.com/viviach)
 
 ## *Project Description*
 ___
