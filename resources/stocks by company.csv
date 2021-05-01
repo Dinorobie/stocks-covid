@@ -1,0 +1,505 @@
+Symbol,Description,Category2,Category3,GICS Sector,Market cap,Dividend yield,Price to TTM earnings,Price to TTM sales,Price to book value,Action
+AAPL,Apple Inc,Common stocks,Large cap,Information Technology,"2,256,152,221,440.00  $",1%,35.08,7.67,33.86,Analyze
+MSFT,Microsoft Corp,Common stocks,Large cap,Information Technology,"1,975,834,264,481.00  $",1%,37.42,12.89,14.74,Analyze
+AMZN,Amazon.Com Inc.,Common stocks,Large cap,Consumer Discretionary,"1,722,783,298,278.00  $",0%,81.73,4.46,18.67,Analyze
+GOOG,Alphabet Inc Class C,Common stocks,Large cap,Communication Services,"1,557,700,535,977.00  $",0%,19.18,8.53,3.47,Analyze
+GOOGL,Alphabet Inc Class A,Common stocks,Large cap,Communication Services,"1,557,700,535,977.00  $",0%,17.62,8.53,3.19,Analyze
+FB,Facebook Inc Class A,Common stocks,Large cap,Communication Services,"866,388,818,857.00  $",0%,25.30,10.08,5.75,Analyze
+TSLA,Tesla Inc,Common stocks,Large cap,Consumer Discretionary,"676,447,158,409.00  $",0%,965.98,21.45,29.99,Analyze
+BRK.B,Berkshire Hathaway Inc.,Common stocks,Large cap,Financials,"628,535,013,046.00  $",0%,8.57,1.76,0.82,Analyze
+V,Visa Inc Class A,Common stocks,Large cap,Information Technology,"506,721,640,000.00  $",1%,36.94,23.59,10.51,Analyze
+JPM,JP Morgan Chase & Co,Common stocks,Large cap,Financials,"458,606,360,561.00  $",2%,11.89,3.71,1.64,Analyze
+JNJ,Johnson & Johnson,Common stocks,Large cap,Health Care,"429,605,058,093.00  $",2%,28.21,5.10,6.74,Analyze
+WMT,Walmart Stores Inc,Common stocks,Large cap,Consumer Staples,"389,465,042,191.00  $",2%,28.73,0.70,4.77,Analyze
+MA,Mastercard Inc Class A,Common stocks,Large cap,Information Technology,"383,291,109,830.00  $",0%,60.80,25.05,60.99,Analyze
+NVDA,Nvidia Corp,Common stocks,Large cap,Information Technology,"382,933,966,801.00  $",0%,87.79,22.96,22.51,Analyze
+UNH,Unitedhealth Group Inc,Common stocks,Large cap,Health Care,"372,364,048,361.00  $",1%,22.06,1.42,5.37,Analyze
+HD,Home Depot Inc,Common stocks,Large cap,Consumer Discretionary,"344,705,937,450.00  $",2%,27.52,3.54,223.95,Analyze
+BAC,Bank of America Corp,Common stocks,Large cap,Financials,"344,054,831,774.00  $",2%,16.85,3.97,1.26,Analyze
+DIS,Walt Disney,Common stocks,Large cap,Communication Services,"335,170,326,311.00  $",0%,-67.20,5.52,3.96,Analyze
+PG,Procter & Gamble,Common stocks,Large cap,Consumer Staples,"321,159,176,867.00  $",2%,19.97,4.29,6.90,Analyze
+PYPL,Paypal Holdings Inc,Common stocks,Large cap,Information Technology,"315,664,925,354.00  $",0%,75.76,14.71,15.90,Analyze
+CMCSA,Comcast A Corp,Common stocks,Large cap,Communication Services,"248,957,073,726.00  $",2%,23.55,2.40,2.75,Analyze
+ADBE,Adobe Inc,Common stocks,Large cap,Information Technology,"247,278,960,000.00  $",0%,44.27,18.07,18.19,Analyze
+XOM,Exxon Mobil Corp,Common stocks,Large cap,Energy,"238,813,019,286.00  $",6%,-10.96,1.34,1.57,Analyze
+INTC,Intel Corporation Corp,Common stocks,Large cap,Information Technology,"234,082,860,000.00  $",2%,12.51,3.01,2.92,Analyze
+VZ,Verizon Communications Inc,Common stocks,Large cap,Communication Services,"233,164,800,000.00  $",4%,12.37,1.80,3.28,Analyze
+KO,Coca-Cola,Common stocks,Large cap,Consumer Staples,"230,892,919,600.00  $",3%,32.00,6.91,11.35,Analyze
+NFLX,Netflix Inc,Common stocks,Large cap,Communication Services,"223,349,466,294.00  $",0%,59.53,8.46,17.37,Analyze
+T,AT&T Inc.,Common stocks,Large cap,Communication Services,"219,444,362,772.00  $",7%,-90.23,1.27,1.33,Analyze
+ORCL,Oracle Corp,Common stocks,Large cap,Information Technology,"216,899,502,700.00  $",1%,16.80,5.46,24.22,Analyze
+CSCO,Cisco Systems Inc,Common stocks,Large cap,Information Technology,"216,873,123,549.00  $",3%,21.30,4.52,5.52,Analyze
+CRM,Salesforce.Com Inc,Common stocks,Large cap,Information Technology,"215,707,410,000.00  $",0%,53.58,10.15,5.26,Analyze
+ABT,Abbott Laboratories,Common stocks,Large cap,Health Care,"215,595,122,869.00  $",1%,37.59,5.77,6.56,Analyze
+PFE,Pfizer Inc,Common stocks,Large cap,Health Care,"214,459,853,929.00  $",4%,22.51,5.12,3.42,Analyze
+NKE,Nike Inc Class B,Common stocks,Large cap,Consumer Discretionary,"207,390,243,414.00  $",1%,48.61,5.39,13.97,Analyze
+CVX,Chevron Corp,Common stocks,Large cap,Energy,"198,011,677,683.00  $",5%,-36.60,2.10,1.54,Analyze
+PEP,Pepsico Inc,Common stocks,Large cap,Consumer Staples,"197,421,291,313.00  $",3%,26.14,2.77,14.05,Analyze
+ABBV,Abbvie Inc,Common stocks,Large cap,Health Care,"196,672,187,709.00  $",4%,42.79,4.29,15.11,Analyze
+MRK,Merck & Co Inc,Common stocks,Large cap,Health Care,"195,750,794,406.00  $",3%,27.60,4.08,7.71,Analyze
+ACN,Accenture Plc Class A,Common stocks,Large cap,Information Technology,"193,049,549,802.00  $",1%,35.38,4.23,10.55,Analyze
+TMO,Thermo Fisher Scientific Inc,Common stocks,Large cap,Health Care,"192,664,821,192.00  $",0%,29.95,5.98,5.53,Analyze
+AVGO,Broadcom Inc.,Common stocks,Large cap,Information Technology,"190,411,789,730.00  $",3%,51.28,7.71,7.82,Analyze
+WFC,Wells Fargo,Common stocks,Large cap,Financials,"186,408,570,771.00  $",2%,30.90,2.56,1.00,Analyze
+DHR,Danaher Corp,Common stocks,Large cap,Health Care,"184,040,213,005.00  $",0%,40.11,7.42,4.56,Analyze
+MCD,Mcdonalds Corp,Common stocks,Large cap,Consumer Discretionary,"175,317,971,047.00  $",2%,36.66,9.13,-22.16,Analyze
+MDT,Medtronic Plc,Common stocks,Large cap,Health Care,"175,209,027,925.00  $",2%,61.16,6.27,3.48,Analyze
+TXN,Texas Instrument Inc,Common stocks,Large cap,Information Technology,"175,038,696,520.00  $",2%,29.90,12.10,18.21,Analyze
+LLY,Eli Lilly,Common stocks,Large cap,Health Care,"174,737,961,291.00  $",2%,27.96,7.12,30.69,Analyze
+UPS,United Parcel Service Inc Class B,Common stocks,Large cap,Industrials,"167,805,972,000.00  $",2%,106.43,1.98,217.55,Analyze
+TMUS,T Mobile US Inc,Common stocks,Large cap,Communication Services,"165,725,847,894.00  $",0%,53.75,2.42,2.52,Analyze
+COST,Costco Wholesale Corp,Common stocks,Large cap,Consumer Staples,"163,830,432,545.00  $",1%,37.65,0.92,10.45,Analyze
+QCOM,Qualcomm Inc,Common stocks,Large cap,Information Technology,"156,779,360,000.00  $",2%,23.06,5.87,21.02,Analyze
+HON,Honeywell International Inc,Common stocks,Large cap,Industrials,"154,837,280,577.00  $",2%,33.47,4.75,8.61,Analyze
+MS,Morgan Stanley,Common stocks,Large cap,Financials,"153,309,330,460.00  $",2%,12.00,2.99,1.52,Analyze
+C,Citigroup Inc,Common stocks,Large cap,Financials,"152,307,249,168.00  $",3%,9.80,2.08,0.75,Analyze
+LIN,Linde Plc,Common stocks,Large cap,Materials,"151,732,358,899.00  $",1%,60.03,5.57,3.17,Analyze
+NEE,Nextera Energy Inc,Common stocks,Large cap,Utilities,"151,396,925,891.00  $",2%,36.31,8.85,4.05,Analyze
+UNP,Union Pacific Corp,Common stocks,Large cap,Industrials,"149,953,008,065.00  $",2%,28.81,7.77,9.24,Analyze
+BMY,Bristol Myers Squibb,Common stocks,Large cap,Health Care,"147,349,886,659.00  $",3%,-16.36,3.47,3.90,Analyze
+PM,Philip Morris International Inc,Common stocks,Large cap,Consumer Staples,"147,295,059,850.00  $",5%,16.98,5.06,-12.71,Analyze
+AMGN,Amgen Inc,Common stocks,Large cap,Health Care,"146,904,485,957.00  $",3%,18.76,5.78,14.49,Analyze
+LOW,Lowes Companies Inc,Common stocks,Large cap,Consumer Discretionary,"142,754,355,544.00  $",1%,24.16,2.88,97.85,Analyze
+BA,Boeing,Common stocks,Large cap,Industrials,"141,359,248,644.00  $",1%,-11.56,2.43,-7.49,Analyze
+CHTR,Charter Communications Inc Class A,Common stocks,Large cap,Communication Services,"140,685,275,005.00  $",0%,43.61,2.93,5.90,Analyze
+SBUX,Starbucks Corp,Common stocks,Large cap,Consumer Discretionary,"136,743,395,000.00  $",1%,199.05,5.90,-16.73,Analyze
+SCHW,Charles Schwab Corporation,Common stocks,Large cap,Financials,"130,859,126,743.00  $",1%,34.34,9.49,2.25,Analyze
+IBM,International Business Machines Co,Common stocks,Large cap,Information Technology,"126,899,296,721.00  $",5%,23.80,1.72,5.97,Analyze
+RTX,Raytheon Technologies Corporation,Common stocks,Large cap,Industrials,"125,827,984,277.00  $",2%,-35.87,1.98,1.75,Analyze
+CAT,Caterpillar Inc,Common stocks,Large cap,Industrials,"125,605,288,118.00  $",2%,42.25,3.01,8.26,Analyze
+AMAT,Applied Material Inc,Common stocks,Large cap,Information Technology,"125,517,648,601.00  $",1%,32.28,6.90,10.85,Analyze
+BLK,Blackrock Inc,Common stocks,Large cap,Financials,"125,242,494,606.00  $",2%,23.40,7.41,3.53,Analyze
+AXP,American Express,Common stocks,Large cap,Financials,"120,784,617,879.00  $",1%,24.49,4.54,5.01,Analyze
+GS,Goldman Sachs Group Inc,Common stocks,Large cap,Financials,"119,862,699,353.00  $",1%,8.30,2.39,1.23,Analyze
+DE,Deere & Company,Common stocks,Large cap,Industrials,"119,846,506,598.00  $",1%,34.43,3.26,8.45,Analyze
+GE,General Electric,Common stocks,Large cap,Industrials,"118,504,945,943.00  $",0%,22.17,1.49,3.26,Analyze
+EL,Estee Lauder Inc Class A,Common stocks,Large cap,Consumer Staples,"114,087,011,024.00  $",0%,78.11,8.04,13.37,Analyze
+INTU,Intuit Inc,Common stocks,Large cap,Information Technology,"114,035,602,071.00  $",1%,65.18,14.78,12.84,Analyze
+MMM,3M,Common stocks,Large cap,Industrials,"112,667,674,734.00  $",3%,21.09,3.50,8.82,Analyze
+AMT,American Tower Corporation,REITs,Large cap,Real Estate,"112,299,128,934.00  $",2%,66.28,13.96,27.37,Analyze
+NOW,Servicenow Inc,Common stocks,Large cap,Information Technology,"111,090,160,926.00  $",0%,928.47,24.58,38.82,Analyze
+LMT,Lockheed Martin Corp,Common stocks,Large cap,Industrials,"103,730,521,882.00  $",3%,14.91,1.64,16.42,Analyze
+AMD,Advanced Micro Devices Inc,Common stocks,Large cap,Information Technology,"103,496,714,704.00  $",0%,40.98,10.60,17.48,Analyze
+ISRG,Intuitive Surgical Inc,Common stocks,Large cap,Health Care,"101,998,493,465.00  $",0%,87.67,22.41,10.13,Analyze
+TGT,Target Corp,Common stocks,Large cap,Consumer Discretionary,"101,683,615,691.00  $",1%,42.50,0.00,7.05,Analyze
+BKNG,Booking Holdings Inc,Common stocks,Large cap,Consumer Discretionary,"101,159,924,460.00  $",0%,"1,743.07",14.89,21.02,Analyze
+MU,Micron Technology Inc,Common stocks,Large cap,Information Technology,"100,321,836,087.00  $",0%,30.18,4.27,2.37,Analyze
+SYK,Stryker Corp,Common stocks,Large cap,Health Care,"99,737,289,921.00  $",1%,61.09,6.95,7.47,Analyze
+CVS,CVS Health Corp,Common stocks,Large cap,Health Care,"98,495,868,492.00  $",3%,13.77,0.37,1.43,Analyze
+FIS,Fidelity National Information Services,Common stocks,Large cap,Information Technology,"95,066,114,413.00  $",1%,608.06,7.57,1.95,Analyze
+SPGI,S&P Global Inc,Common stocks,Large cap,Financials,"92,534,111,300.00  $",1%,39.14,12.43,179.87,Analyze
+ANTM,Anthem Inc,Common stocks,Large cap,Health Care,"92,270,648,866.00  $",1%,19.49,0.74,2.71,Analyze
+LRCX,Lam Research Corp,Common stocks,Large cap,Information Technology,"92,158,714,177.00  $",1%,26.35,6.94,16.96,Analyze
+USB,US Bancorp,Common stocks,Large cap,Financials,"87,630,113,580.00  $",3%,15.52,4.01,1.71,Analyze
+MO,Altria Group Inc,Common stocks,Large cap,Consumer Staples,"87,349,510,446.00  $",7%,19.56,4.19,30.78,Analyze
+CI,Cigna Corp,Common stocks,Large cap,Health Care,"86,998,322,285.00  $",0%,10.15,0.54,1.71,Analyze
+GM,General Motors,Common stocks,Large cap,Consumer Discretionary,"84,970,628,995.00  $",1%,13.51,0.69,1.87,Analyze
+PLD,"Prologis, Inc",REITs,Large cap,Real Estate,"84,959,689,361.00  $",2%,63.09,18.43,2.66,Analyze
+TJX,"TJX Companies, Inc.",Common stocks,Large cap,Consumer Discretionary,"84,176,723,799.00  $",0%,276.86,1.58,14.46,Analyze
+ADP,Automatic Data Processing Inc,Common stocks,Large cap,Information Technology,"83,829,209,696.00  $",2%,32.18,5.75,13.54,Analyze
+MDLZ,Mondelez International Inc,Common stocks,Large cap,Consumer Staples,"82,507,218,036.00  $",2%,24.06,3.10,3.10,Analyze
+GILD,Gilead Sciences Inc,Common stocks,Large cap,Health Care,"81,423,154,301.00  $",4%,659.62,3.30,4.46,Analyze
+FISV,Fiserv Inc,Common stocks,Large cap,Information Technology,"81,376,958,851.00  $",0%,86.17,5.48,2.55,Analyze
+ZTS,Zoetis Inc,Common stocks,Large cap,Health Care,"80,628,798,131.00  $",1%,49.80,12.08,21.64,Analyze
+CCI,Crown Castle International Corp.,REITs,Large cap,Real Estate,"79,842,267,023.00  $",3%,83.11,13.52,8.91,Analyze
+TFC,Truist Financial Corporation,Common stocks,Large cap,Financials,"78,381,612,349.00  $",3%,17.49,3.65,1.17,Analyze
+PNC,"PNC Financial Services Group, Inc.",Common stocks,Large cap,Financials,"77,841,681,921.00  $",2%,9.53,4.69,1.46,Analyze
+CSX,CSX Corp,Common stocks,Large cap,Industrials,"77,194,230,015.00  $",1%,28.46,7.32,5.85,Analyze
+FDX,FedEx Corporation,Common stocks,Large cap,Industrials,"76,288,499,983.00  $",1%,25.22,0.97,3.47,Analyze
+DUK,Duke Energy Corp,Common stocks,Large cap,Utilities,"75,852,440,840.00  $",4%,59.19,3.18,1.58,Analyze
+BDX,Becton Dickinson,Common stocks,Large cap,Health Care,"75,025,495,276.00  $",1%,49.62,4.12,3.03,Analyze
+CB,Chubb Ltd,Common stocks,Large cap,Financials,"74,987,490,501.00  $",2%,20.90,2.08,1.24,Analyze
+CME,CME Group Inc Class A,Common stocks,Large cap,Financials,"73,526,885,217.00  $",2%,34.29,15.06,2.74,Analyze
+ITW,Illinois Tool Inc,Common stocks,Large cap,Industrials,"72,587,914,039.00  $",2%,34.51,5.77,22.88,Analyze
+NSC,Norfolk Southern Corp,Common stocks,Large cap,Industrials,"71,585,669,995.00  $",1%,38.42,7.31,5.23,Analyze
+ATVI,Activision Blizzard Inc,Common stocks,Large cap,Communication Services,"70,967,463,194.00  $",1%,32.18,8.78,4.70,Analyze
+COP,ConocoPhillips,Common stocks,Large cap,Energy,"69,365,341,170.00  $",3%,-26.55,3.69,2.40,Analyze
+ICE,Intercontinental Exchange Inc,Common stocks,Large cap,Financials,"68,217,582,913.00  $",1%,32.07,8.27,3.44,Analyze
+SO,Southern Co,Common stocks,Large cap,Utilities,"68,168,010,914.00  $",4%,21.86,3.35,2.44,Analyze
+MMC,Marsh & McLennan Inc,Common stocks,Large cap,Financials,"67,187,345,230.00  $",1%,33.78,3.90,7.48,Analyze
+HCA,"HCA Healthcare, Inc.",Common stocks,Large cap,Health Care,"67,036,958,660.00  $",0%,14.55,1.27,270.76,Analyze
+CL,Colgate-Palmolive,Common stocks,Large cap,Consumer Staples,"66,581,443,725.00  $",2%,24.77,4.04,89.85,Analyze
+ADSK,Autodesk Inc,Common stocks,Large cap,Information Technology,"65,409,956,614.00  $",0%,54.39,17.26,68.06,Analyze
+APD,Air Products And Chemicals Inc,Common stocks,Large cap,Materials,"64,123,829,953.00  $",2%,33.85,7.14,5.05,Analyze
+EQIX,"Equinix, Inc.",REITs,Large cap,Real Estate,"63,945,451,199.00  $",2%,171.36,10.66,5.96,Analyze
+GPN,Global Payments Inc,Common stocks,Large cap,Information Technology,"63,887,094,982.00  $",0%,109.99,8.61,2.35,Analyze
+COF,Capital One Financial Corp,Common stocks,Large cap,Financials,"63,448,746,420.00  $",1%,27.76,2.28,1.09,Analyze
+D,Dominion Energy Inc,Common stocks,Large cap,Utilities,"63,101,973,696.00  $",4%,-156.06,4.45,2.40,Analyze
+ECL,Ecolab Inc,Common stocks,Large cap,Materials,"62,482,320,879.00  $",1%,-52.72,5.06,10.30,Analyze
+MCO,Moodys Corp,Common stocks,Large cap,Financials,"61,085,692,762.00  $",1%,33.69,11.37,38.17,Analyze
+ILMN,Illumina Inc,Common stocks,Large cap,Health Care,"60,371,131,524.00  $",0%,90.25,10.93,12.61,Analyze
+BSX,Boston Scientific Corp,Common stocks,Large cap,Health Care,"60,244,117,530.00  $",0%,-546.47,6.08,4.10,Analyze
+EW,Edwards Lifesciences Corp,Common stocks,Large cap,Health Care,"59,808,778,611.00  $",0%,70.74,13.37,12.92,Analyze
+ADI,Analog Devices Inc,Common stocks,Large cap,Information Technology,"58,856,996,536.00  $",2%,40.96,10.05,4.76,Analyze
+PGR,Progressive Corp,Common stocks,Large cap,Financials,"58,462,664,405.00  $",5%,9.08,1.31,3.29,Analyze
+HUM,Humana Inc,Common stocks,Large cap,Health Care,"57,900,770,954.00  $",1%,16.81,0.75,4.12,Analyze
+ETN,"Eaton Corporation, PLC",Common stocks,Large cap,Industrials,"57,599,370,368.00  $",2%,40.83,3.23,3.86,Analyze
+WM,Waste Management Inc,Common stocks,Large cap,Industrials,"57,000,801,140.00  $",2%,38.43,3.75,7.72,Analyze
+FCX,"Freeport-McMoRan, Inc.",Common stocks,Large cap,Materials,"56,665,351,405.00  $",0%,31.88,3.49,5.28,Analyze
+NXPI,NXP Semiconductors Nv,Common stocks,Large cap,Information Technology,"56,086,904,612.00  $",1%,"1,053.41",6.51,6.12,Analyze
+MET,Metlife Inc,Common stocks,Large cap,Financials,"56,035,534,706.00  $",3%,10.86,0.83,0.76,Analyze
+VRTX,Vertex Pharmaceuticals Inc,Common stocks,Large cap,Health Care,"55,783,744,875.00  $",0%,20.38,8.99,6.36,Analyze
+EMR,Emerson Electric,Common stocks,Large cap,Industrials,"55,298,734,572.00  $",2%,26.51,3.29,6.21,Analyze
+NOC,Northrop Grumman Corp,Common stocks,Large cap,Industrials,"54,706,170,914.00  $",2%,17.08,1.49,5.15,Analyze
+AON,Aon Plc,Common stocks,Large cap,Financials,"52,872,402,685.00  $",1%,27.38,3.15,15.43,Analyze
+TWTR,Twitter Inc,Common stocks,Large cap,Communication Services,"52,720,336,344.00  $",0%,-46.21,14.19,6.58,Analyze
+GD,General Dynamics Corp,Common stocks,Large cap,Industrials,"52,709,696,727.00  $",2%,16.59,1.55,3.35,Analyze
+REGN,Regeneron Pharmaceuticals Inc,Common stocks,Large cap,Health Care,"51,479,837,974.00  $",0%,14.53,6.06,4.63,Analyze
+NEM,Newmont Corporation,Common stocks,Large cap,Materials,"51,439,054,722.00  $",2%,18.18,4.47,2.24,Analyze
+MNST,Monster Beverage Corp,Common stocks,Large cap,Consumer Staples,"51,239,855,233.00  $",0%,36.14,11.14,9.87,Analyze
+KLAC,KLA-Tencor Corporation,Common stocks,Large cap,Information Technology,"50,920,131,409.00  $",1%,29.20,8.38,17.05,Analyze
+DG,Dollar General Corp,Common stocks,Large cap,Consumer Discretionary,"50,819,727,125.00  $",1%,19.11,0.86,7.62,Analyze
+ALGN,Align Technology Inc,Common stocks,Large cap,Health Care,"49,203,341,330.00  $",0%,27.33,19.90,15.01,Analyze
+KHC,Kraft Heinz,Common stocks,Large cap,Consumer Staples,"49,049,347,455.00  $",4%,137.85,1.87,0.98,Analyze
+F,Ford Motor Company,Common stocks,Large cap,Consumer Discretionary,"48,965,126,823.00  $",1%,-38.10,0.39,1.59,Analyze
+MAR,Marriott International Inc,Common stocks,Large cap,Consumer Discretionary,"48,577,774,821.00  $",0%,-181.59,4.60,112.75,Analyze
+PSA,Public Storage,REITs,Large cap,Real Estate,"48,077,664,234.00  $",3%,43.48,16.49,5.58,Analyze
+IDXX,Idexx Laboratories Inc,Common stocks,Large cap,Health Care,"47,742,000,222.00  $",0%,82.10,17.64,75.57,Analyze
+DOW,Dow Inc.,Common stocks,Large cap,Materials,"46,798,888,541.00  $",4%,24.04,1.15,3.38,Analyze
+ROP,Roper Technologies Inc,Common stocks,Large cap,Industrials,"46,788,368,718.00  $",0%,48.88,8.47,4.43,Analyze
+LVS,Las Vegas Sands Corp,Common stocks,Large cap,Consumer Discretionary,"46,395,573,073.00  $",0%,-24.04,15.33,17.65,Analyze
+STZ,Constellation Brands Class A,Common stocks,Large cap,Consumer Staples,"46,092,085,008.00  $",1%,10.13,5.35,2.98,Analyze
+ROST,Ross Stores Inc,Common stocks,Large cap,Consumer Discretionary,"46,063,501,126.00  $",0%,536.79,4.02,13.93,Analyze
+JCI,Johnson Controls International Plc,Common stocks,Large cap,Industrials,"45,621,043,651.00  $",2%,49.19,2.07,2.57,Analyze
+WBA,Walgreen Boots Alliance Inc,Common stocks,Large cap,Consumer Staples,"45,389,350,889.00  $",3%,-73.41,0.33,2.09,Analyze
+IQV,"IQVIA Holdings, Inc.",Common stocks,Large cap,Health Care,"44,927,295,797.00  $",0%,110.60,3.74,7.60,Analyze
+INFO,IHS Markit Ltd,Common stocks,Large cap,Industrials,"44,730,353,723.00  $",1%,83.35,10.34,5.13,Analyze
+TEL,TE Connectivity Ltd,Common stocks,Large cap,Information Technology,"44,629,858,204.00  $",1%,41.71,2.30,4.59,Analyze
+BAX,Baxter International Inc,Common stocks,Large cap,Health Care,"43,822,813,843.00  $",1%,39.87,3.75,5.06,Analyze
+DISCA,Discovery Communications Inc Series A,Common stocks,Large cap,Communication Services,"43,745,440,429.00  $",0%,5.00,4.10,0.58,Analyze
+DISCK,"Discovery Communications, Inc. - Series C",Common stocks,Large cap,Communication Services,"43,745,440,429.00  $",0%,8.75,4.10,0.99,Analyze
+KMB,Kimberly Clark Corp,Common stocks,Large cap,Consumer Staples,"43,680,519,067.00  $",3%,19.22,2.31,84.45,Analyze
+AEP,American Electric Power Inc,Common stocks,Large cap,Utilities,"43,578,234,880.00  $",2%,19.01,2.82,2.07,Analyze
+EXC,Exelon Corp,Common stocks,Large cap,Utilities,"43,504,892,137.00  $",3%,22.20,1.32,1.34,Analyze
+HPQ,HP Inc,Common stocks,Large cap,Information Technology,"42,920,383,532.00  $",2%,13.23,0.74,-13.23,Analyze
+LHX,"L3Harris Technologies, Inc.",Common stocks,Large cap,Industrials,"42,702,179,895.00  $",2%,37.66,1.59,2.03,Analyze
+BK,Bank Of New York Mellon Corp,Common stocks,Large cap,Financials,"42,575,991,247.00  $",3%,12.92,2.84,0.94,Analyze
+SYY,Sysco Corp,Common stocks,Large cap,Consumer Staples,"42,512,212,648.00  $",2%,-125.88,0.93,29.78,Analyze
+MCHP,Microchip Technology Inc,Common stocks,Large cap,Information Technology,"42,406,074,427.00  $",1%,124.91,8.00,7.86,Analyze
+CTSH,Cognizant Technology Solutions,Common stocks,Large cap,Information Technology,"42,250,866,226.00  $",1%,30.44,2.54,3.91,Analyze
+EBAY,Ebay Inc,Common stocks,Large cap,Consumer Discretionary,"42,033,851,579.00  $",1%,7.49,3.92,11.92,Analyze
+EOG,EOG Resources Inc,Common stocks,Large cap,Energy,"41,835,793,019.00  $",2%,-72.38,4.24,2.16,Analyze
+AIG,American International Group Inc,Common stocks,Large cap,Financials,"41,771,971,794.00  $",3%,-6.96,0.95,0.63,Analyze
+DLR,"Digital Realty Trust, Inc",REITs,Large cap,Real Estate,"41,622,422,084.00  $",3%,157.24,10.66,2.34,Analyze
+A,Agilent Technologies Inc,Common stocks,Large cap,Health Care,"41,585,116,847.00  $",1%,50.71,7.52,8.55,Analyze
+TT,Trane Technologies plc,Common stocks,Large cap,Industrials,"41,557,123,344.00  $",1%,48.77,3.34,6.49,Analyze
+CMG,Chipotle Mexican Grill Inc,Common stocks,Large cap,Consumer Discretionary,"41,396,345,049.00  $",0%,102.35,6.55,19.83,Analyze
+EA,Electronic Arts Inc,Common stocks,Large cap,Communication Services,"41,262,829,833.00  $",0%,35.13,7.28,5.20,Analyze
+PH,Parker-Hannifin Corp,Common stocks,Large cap,Industrials,"41,246,595,464.00  $",1%,28.76,3.05,5.79,Analyze
+DD,"DuPont de Nemours, Inc.",Common stocks,Large cap,Materials,"41,201,207,195.00  $",2%,-13.96,2.02,1.07,Analyze
+APH,Amphenol Corp,Common stocks,Large cap,Information Technology,"40,912,104,520.00  $",1%,33.63,4.76,7.52,Analyze
+SRE,Sempra Energy,Common stocks,Large cap,Utilities,"40,844,105,738.00  $",3%,10.85,3.59,1.75,Analyze
+PPG,PPG Industries Inc,Common stocks,Large cap,Materials,"40,834,213,759.00  $",1%,34.26,2.85,7.01,Analyze
+DXCM,Dexcom Inc,Common stocks,Large cap,Health Care,"40,780,864,114.00  $",0%,83.42,21.17,22.54,Analyze
+TROW,T Rowe Price Group Inc,Common stocks,Large cap,Financials,"40,774,994,969.00  $",2%,17.26,6.57,5.32,Analyze
+MSCI,MSCI Inc,Common stocks,Large cap,Financials,"40,350,439,898.00  $",1%,66.55,23.80,-90.37,Analyze
+BIIB,Biogen Inc,Common stocks,Large cap,Health Care,"40,256,834,603.00  $",0%,13.38,3.19,3.77,Analyze
+SPG,"Simon Property Group, Inc",REITs,Large cap,Real Estate,"40,156,245,881.00  $",4%,36.42,8.72,13.29,Analyze
+APTV,Aptiv Plc,Common stocks,Large cap,Consumer Discretionary,"39,679,589,906.00  $",0%,22.46,3.04,5.03,Analyze
+PRU,Prudential Financial Inc,Common stocks,Large cap,Financials,"39,264,814,262.00  $",4%,-105.53,0.69,0.59,Analyze
+CARR,Carrier Global Corporation,Common stocks,Large cap,Industrials,"39,082,986,744.00  $",1%,19.51,2.24,6.19,Analyze
+TRV,Travelers Companies Inc,Common stocks,Large cap,Financials,"39,027,409,438.00  $",2%,13.67,1.21,1.37,Analyze
+KMI,Kinder Morgan Inc,Common stocks,Large cap,Energy,"38,497,903,911.00  $",6%,21.53,2.79,1.23,Analyze
+SNPS,Synopsys Inc,Common stocks,Large cap,Information Technology,"38,352,324,875.00  $",0%,53.00,10.04,7.85,Analyze
+ALL,Allstate Corp,Common stocks,Large cap,Financials,"37,794,992,607.00  $",2%,6.89,1.15,1.25,Analyze
+CMI,Cummins Inc,Common stocks,Large cap,Industrials,"37,783,560,184.00  $",2%,20.92,2.37,4.64,Analyze
+XEL,Xcel Energy Inc,Common stocks,Large cap,Utilities,"37,665,236,910.00  $",2%,25.50,3.27,2.58,Analyze
+ORLY,Oreilly Automotive Inc,Common stocks,Large cap,Consumer Discretionary,"37,236,454,653.00  $",0%,21.10,3.21,263.64,Analyze
+CDNS,Cadence Design Systems Inc,Common stocks,Large cap,Information technology,"36,939,678,750.00  $",0%,56.72,7.82,14.59,Analyze
+GIS,General Mills Inc,Common stocks,Large cap,Consumer Staples,"36,927,660,625.00  $",3%,14.55,1.98,4.17,Analyze
+ALXN,Alexion Pharmaceuticals Inc,Common stocks,Large cap,Health Care,"36,905,660,961.00  $",0%,61.04,6.08,3.16,Analyze
+LUV,Southwest Airlines,Common stocks,Large cap,Industrials,"36,896,740,858.00  $",0%,-12.75,5.37,4.02,Analyze
+AFL,Aflac Inc,Common stocks,Large cap,Financials,"36,807,236,351.00  $",2%,7.70,1.66,1.10,Analyze
+CTAS,Cintas Corp,Common stocks,Large cap,Industrials,"36,776,241,544.00  $",1%,36.70,5.33,9.50,Analyze
+ZBH,Zimmer Biomet Holdings Inc,Common stocks,Large cap,Health Care,"36,736,630,823.00  $",1%,-267.71,7.43,3.05,Analyze
+SLB,Schlumberger Nv,Common stocks,Large cap,Energy,"36,606,566,861.00  $",2%,-13.46,1.71,2.95,Analyze
+CTVA,"Corteva, Inc.",Common stocks,Large cap,Materials,"36,409,768,554.00  $",1%,53.50,2.56,1.47,Analyze
+DHI,D R Horton Inc,Common stocks,Large cap,Consumer Discretionary,"36,257,433,146.00  $",1%,11.31,1.96,2.78,Analyze
+HLT,Hilton Worldwide Holdings Inc,Common stocks,Large cap,Consumer Discretionary,"36,091,789,948.00  $",0%,-50.13,8.38,-24.06,Analyze
+PAYX,Paychex Inc,Common stocks,Large cap,Information Technology,"35,718,889,940.00  $",2%,33.42,9.06,11.85,Analyze
+BF.B,Brown Forman Inc Class B,Common stocks,Large cap,Consumer Staples,"35,665,595,982.00  $",1%,25.90,10.62,9.56,Analyze
+CNC,Centene Corp,Common stocks,Large cap,Health Care,"35,657,469,344.00  $",0%,19.14,0.32,1.34,Analyze
+IFF,International Flavors & Fragrances,Common stocks,Large cap,Materials,"35,483,094,015.00  $",2%,98.50,6.98,5.67,Analyze
+MPC,Marathon Petroleum Corp,Common stocks,Large cap,Energy,"35,097,201,235.00  $",4%,-3.67,0.46,1.63,Analyze
+LYB,Lyondellbasell Industries NV,Common stocks,Large cap,Materials,"35,072,799,910.00  $",4%,24.92,1.26,4.46,Analyze
+VFC,VF Corp,Common stocks,Large cap,Consumer Discretionary,"34,924,310,979.00  $",2%,-211.54,4.31,11.15,Analyze
+YUM,Yum Brands Inc,Common stocks,Large cap,Consumer Discretionary,"34,760,026,000.00  $",2%,38.83,6.15,-4.45,Analyze
+ADM,Archer-Daniels-Midland Company,Common stocks,Large cap,Consumer Staples,"34,526,504,805.00  $",2%,19.89,0.54,1.76,Analyze
+GLW,Corning Inc,Common stocks,Large cap,Information Technology,"34,235,489,640.00  $",2%,56.12,2.81,2.55,Analyze
+PSX,Phillips 66,Common stocks,Large cap,Energy,"34,197,294,613.00  $",5%,-8.82,0.53,1.85,Analyze
+OTIS,Otis Worldwide Corporation,Common stocks,Large cap,Industrials,"33,952,585,240.00  $",1%,31.96,2.57,-8.57,Analyze
+RSG,Republic Services Inc,Common stocks,Large cap,Industrials,"33,462,984,610.00  $",2%,34.52,3.30,3.94,Analyze
+SWK,Stanley Black & Decker Inc,Common stocks,Large cap,Industrials,"33,454,482,322.00  $",1%,27.46,2.30,3.00,Analyze
+HSY,Hershey Foods,Common stocks,Large cap,Consumer Staples,"33,034,216,820.00  $",2%,18.18,4.05,10.40,Analyze
+DFS,Discover Financial Services,Common stocks,Large cap,Financials,"33,011,733,967.00  $",1%,12.89,3.00,2.81,Analyze
+TDG,Transdigm Group Inc,Common stocks,Large cap,Industrials,"32,947,885,538.00  $",22%,74.38,6.94,-8.88,Analyze
+FTNT,Fortinet Inc,Common stocks,Large cap,Information Technology,"32,842,172,449.00  $",0%,66.15,12.67,37.75,Analyze
+XLNX,Xilinx Inc,Common stocks,Large cap,Information Technology,"32,836,888,787.00  $",1%,52.06,10.76,12.44,Analyze
+PXD,Pioneer Natural Resource,Common stocks,Large cap,Energy,"32,718,782,900.00  $",1%,-170.25,4.66,2.94,Analyze
+SWKS,Skyworks Solutions Inc,Common stocks,Large cap,Information Technology,"32,588,389,163.00  $",1%,30.39,5.79,7.34,Analyze
+ANSS,Ansys Inc,Common stocks,Large cap,Information Technology,"32,545,620,541.00  $",0%,75.39,19.36,7.98,Analyze
+SBAC,SBA Communications Corporation,REITs,Large cap,Real Estate,"32,204,171,720.00  $",1%,"1,350.10",15.46,-6.75,Analyze
+MSI,Motorola Solutions Inc,Common stocks,Large cap,Information Technology,"32,135,168,934.00  $",1%,33.66,4.33,-57.24,Analyze
+AZO,Autozone Inc,Common stocks,Large cap,Consumer Discretionary,"32,080,923,956.00  $",0%,17.19,2.40,-21.12,Analyze
+WELL,Welltower Inc,REITs,Large cap,Real Estate,"31,927,786,517.00  $",3%,32.21,6.93,1.97,Analyze
+PCAR,Paccar Inc,Common stocks,Large cap,Industrials,"31,686,480,153.00  $",1%,24.24,1.69,3.03,Analyze
+LEN,Lennar Corporation Class A,Common stocks,Large cap,Consumer Discretionary,"31,587,652,158.00  $",1%,9.28,1.36,1.51,Analyze
+PEG,Public Service Enterprise Group Inc,Common stocks,Large cap,Utilities,"31,366,280,827.00  $",3%,16.54,3.27,1.97,Analyze
+FRC,First Republic Bank,Common stocks,Large cap,Financials,"31,298,440,500.00  $",0%,33.31,10.59,2.06,Analyze
+ROK,Rockwell Automation Inc,Common stocks,Large cap,Industrials,"31,201,577,858.00  $",2%,23.68,5.02,19.86,Analyze
+AME,Ametek Inc,Common stocks,Large cap,Industrials,"31,181,055,412.00  $",1%,35.73,6.87,5.24,Analyze
+MTD,Mettler Toledo Inc,Common stocks,Large cap,Health Care,"30,850,199,788.00  $",0%,51.23,10.00,109.23,Analyze
+CCL,Carnival Corp,Common stocks,Large cap,Consumer Discretionary,"30,701,962,345.00  $",0%,-2.37,36.99,1.37,Analyze
+RMD,Resmed Inc,Common stocks,Large cap,Health Care,"30,654,398,726.00  $",1%,43.75,10.22,10.67,Analyze
+BLL,Ball Corp,Common stocks,Large cap,Materials,"30,477,531,600.00  $",1%,51.23,2.59,9.15,Analyze
+WLTW,Willis Towers Watson PLC,Common stocks,Large cap,Financials,"30,469,543,099.00  $",1%,31.84,3.26,2.93,Analyze
+VRSK,Verisk Analytics Inc,Common stocks,Large cap,Industrials,"30,393,408,614.00  $",1%,42.66,10.92,11.27,Analyze
+MCK,Mckesson Corp,Common stocks,Large cap,Health Care,"30,135,170,279.00  $",1%,-7.15,0.13,-62.71,Analyze
+ODFL,Old Dominion Freight Line Inc,Common stocks,Large cap,Industrials,"29,960,630,333.00  $",0%,40.37,7.21,9.35,Analyze
+WEC,WEC Energy Group Inc,Common stocks,Large cap,Utilities,"29,959,971,754.00  $",3%,24.88,4.14,2.84,Analyze
+SIVB,SVB Financial Group,Common stocks,Large cap,Financials,"29,933,295,721.00  $",0%,18.68,6.60,3.00,Analyze
+AMP,Ameriprise Finance Inc,Common stocks,Large cap,Financials,"29,911,214,325.00  $",2%,-59.61,2.43,5.44,Analyze
+ES,Eversource Energy,Common stocks,Large cap,Utilities,"29,875,797,684.00  $",3%,24.34,3.36,2.09,Analyze
+FAST,Fastenal,Common stocks,Large cap,Industrials,"29,820,349,777.00  $",2%,34.24,5.23,10.65,Analyze
+DAL,Delta Air Lines Inc,Common stocks,Large cap,Industrials,"29,641,908,674.00  $",1%,-2.28,2.34,61.63,Analyze
+BBY,Best Buy Inc,Common stocks,Large cap,Consumer Discretionary,"29,592,811,075.00  $",2%,13.88,0.58,6.39,Analyze
+WY,Weyerhaeuser Company,REITs,Large cap,Real Estate,"29,485,590,544.00  $",1%,37.36,3.91,3.41,Analyze
+VLO,Valero Energy Corp,Common stocks,Large cap,Energy,"29,357,103,124.00  $",5%,-110.57,0.46,1.61,Analyze
+CPRT,Copart Inc,Common stocks,Large cap,Industrials,"29,273,392,886.00  $",0%,41.19,12.81,9.89,Analyze
+WMB,Williams Inc,Common stocks,Large cap,Energy,"29,058,141,961.00  $",7%,142.56,3.76,2.52,Analyze
+STT,State Street Corp,Common stocks,Large cap,Financials,"28,600,462,689.00  $",3%,13.37,2.53,1.16,Analyze
+EFX,Equifax Inc,Common stocks,Large cap,Industrials,"28,519,769,943.00  $",1%,45.42,6.51,8.34,Analyze
+AWK,American Water Works Inc,Common stocks,Large cap,Utilities,"28,145,571,561.00  $",1%,39.50,7.45,4.34,Analyze
+CBRE,CBRE Group Inc,Common stocks,Large cap,Real Estate,"28,074,439,787.00  $",0%,36.95,1.18,3.93,Analyze
+TSN,Tyson Foods Inc Class A,Common stocks,Large cap,Consumer Staples,"27,925,589,840.00  $",2%,11.56,0.65,1.45,Analyze
+FITB,Fifth Third Bancorp,Common stocks,Large cap,Financials,"27,908,428,448.00  $",3%,14.39,3.70,1.25,Analyze
+VIAC,ViacomCBS Inc. - Class B,Common stocks,Large cap,Communication Services,"27,831,249,212.00  $",2%,10.35,1.10,1.63,Analyze
+EQR,Equity Residential,REITs,Large cap,Real Estate,"27,737,597,179.00  $",3%,30.16,10.79,2.61,Analyze
+KR,Kroger,Common stocks,Large cap,Consumer Staples,"27,650,808,386.00  $",2%,7.97,0.21,2.74,Analyze
+KEYS,Keysight Technologies Inc,Common stocks,Large cap,Information Technology,"27,599,713,764.00  $",0%,42.88,6.41,7.71,Analyze
+AVB,"AvalonBay Communities, Inc",REITs,Large cap,Real Estate,"27,266,125,599.00  $",3%,32.28,11.85,2.48,Analyze
+KSU,Kansas City Southern,Common stocks,Large cap,Industrials,"27,227,380,730.00  $",1%,43.41,10.44,6.32,Analyze
+GRMN,Garmin Ltd,Common stocks,Large cap,Consumer Discretionary,"27,115,433,251.00  $",2%,26.60,6.48,4.79,Analyze
+AJG,Arthur J Gallagher,Common stocks,Large cap,Financials,"27,050,873,336.00  $",1%,33.39,3.86,4.42,Analyze
+DLTR,Dollar Tree Inc,Common stocks,Large cap,Consumer Discretionary,"26,913,445,246.00  $",0%,32.04,0.00,3.66,Analyze
+ZBRA,Zebra Technologies Corp,Common stocks,Large cap,Information Technology,"26,843,254,207.00  $",0%,52.71,13.23,12.39,Analyze
+NDAQ,Nasdaq Inc,Common stocks,Large cap,Financials,"26,499,137,947.00  $",1%,25.59,4.47,4.16,Analyze
+DTE,DTE Energy,Common stocks,Large cap,Utilities,"26,395,332,499.00  $",3%,19.34,2.17,2.13,Analyze
+ETSY,Etsy Inc,Common stocks,Large cap,Consumer Discretionary,"26,371,504,263.00  $",0%,76.91,15.28,36.18,Analyze
+ARE,"Alexandria Real Estate Equities, Inc",REITs,Large cap,Real Estate,"26,257,060,297.00  $",2%,34.64,13.64,2.03,Analyze
+ED,Consolidated Edison Inc,Common stocks,Large cap,Utilities,"26,109,424,167.00  $",4%,23.72,2.13,1.39,Analyze
+MXIM,Maxim Integrated Products Inc,Common stocks,Large cap,Information Technology,"25,978,540,214.00  $",1%,35.12,11.03,13.16,Analyze
+CDW,CDW Corp,Common stocks,Large cap,Information Technology,"25,889,603,754.00  $",1%,32.57,1.40,19.80,Analyze
+LH,Laboratory Corporation Of America,Common stocks,Large cap,Health Care,"25,792,809,842.00  $",0%,"-28,502.77",1.85,2.74,Analyze
+O,Realty Income Corporation,REITs,Large cap,Real Estate,"25,719,294,078.00  $",4%,64.79,15.57,2.33,Analyze
+FTV,Fortive Corp,Common stocks,Large cap,Industrials,"25,115,689,693.00  $",0%,16.27,5.42,2.80,Analyze
+EXPE,Expedia Inc,Common stocks,Large cap,Consumer Discretionary,"25,040,776,375.00  $",0%,-9.35,4.82,16.63,Analyze
+HRL,Hormel Foods Corp,Common stocks,Large cap,Consumer Staples,"24,933,243,174.00  $",2%,27.97,2.57,3.79,Analyze
+HIG,Hartford Financial Services Group,Common stocks,Large cap,Financials,"24,831,505,992.00  $",2%,14.27,1.19,1.30,Analyze
+VRSN,Verisign Inc,Common stocks,Large cap,Information Technology,"24,781,767,820.00  $",0%,38.93,19.42,-17.50,Analyze
+ANET,Arista Networks Inc,Common stocks,Large cap,Information Technology,"24,332,089,905.00  $",0%,38.55,10.50,7.37,Analyze
+ABC,AmerisourceBergen Corp,Common stocks,Large cap,Health Care,"24,319,090,620.00  $",1%,-7.58,0.13,-35.04,Analyze
+FLT,Fleetcor Technologies Inc,Common stocks,Large cap,Information Technology,"24,172,378,312.00  $",0%,34.69,10.12,7.28,Analyze
+SHW,Sherwin Williams,Common stocks,Large cap,Materials,"24,146,807,677.00  $",1%,11.87,1.32,6.67,Analyze
+NUE,Nucor Corp,Common stocks,Large cap,Materials,"24,101,191,122.00  $",2%,13.91,1.12,2.13,Analyze
+PAYC,Paycom Software Inc,Common stocks,Large cap,Information Technology,"24,088,585,685.00  $",0%,168.28,28.63,36.82,Analyze
+VMC,Vulcan Materials,Common stocks,Large cap,Materials,"23,993,604,891.00  $",1%,39.10,4.94,3.94,Analyze
+MKC,McCormick & Co  Non-voting,Common stocks,Large cap,Consumer Staples,"23,971,115,689.00  $",1%,29.09,4.08,5.36,Analyze
+SYF,Synchrony Financial,Common stocks,Large cap,Financials,"23,685,858,437.00  $",2%,18.63,3.08,1.97,Analyze
+WST,West Pharmaceutical Services Inc,Common stocks,Large cap,Health Care,"23,657,955,138.00  $",0%,68.74,11.02,12.83,Analyze
+URI,United Rentals Inc,Common stocks,Large cap,Industrials,"23,494,278,024.00  $",0%,26.40,2.75,5.17,Analyze
+CLX,Clorox,Common stocks,Large cap,Consumer Staples,"23,436,172,073.00  $",2%,19.00,3.11,19.66,Analyze
+OXY,Occidental Petroleum Corp,Common stocks,Large cap,Energy,"23,420,526,354.00  $",0%,-1.55,1.32,1.31,Analyze
+ENPH,Enphase Energy Inc,Common stocks,Large cap,Information Technology,"23,200,497,159.00  $",0%,148.67,29.96,41.16,Analyze
+NTRS,Northern Trust Corporation,Common stocks,Large cap,Financials,"23,116,223,178.00  $",2%,19.74,4.04,2.03,Analyze
+CERN,Cerner Corp,Common stocks,Large cap,Health Care,"22,822,670,970.00  $",1%,29.05,4.15,5.06,Analyze
+OKE,Oneok Inc,Common stocks,Large cap,Energy,"22,668,763,662.00  $",7%,37.97,2.65,3.84,Analyze
+QRVO,"Qorvo, Inc.",Common stocks,Large cap,Information Technology,"22,469,055,815.00  $",0%,45.99,7.64,4.96,Analyze
+IP,International Paper,Common stocks,Large cap,Materials,"22,426,933,194.00  $",4%,46.99,1.09,2.88,Analyze
+FOX,Fox Corporation Class B,Common stocks,Large cap,Communication Services,"22,342,116,912.00  $",1%,6.18,1.76,0.87,Analyze
+FOXA,Fox Corporation Class A,Common stocks,Large cap,Communication Services,"22,342,116,912.00  $",1%,8.26,1.77,1.16,Analyze
+DISH,Dish Network Corp Class A,Common stocks,Large cap,Communication Services,"22,333,662,440.00  $",0%,6.79,1.44,0.87,Analyze
+RCL,Royal Caribbean Cruises Ltd,Common stocks,Large cap,Consumer Discretionary,"22,307,987,765.00  $",1%,-3.84,10.10,2.54,Analyze
+STX,Seagate Technology Plc,Common stocks,Large cap,Information Technology,"22,302,550,231.00  $",3%,26.98,2.20,22.76,Analyze
+MLM,Martin Marietta Materials Inc,Common stocks,Large cap,Materials,"22,299,966,754.00  $",1%,30.72,4.71,3.76,Analyze
+PPL,PPL Corporation,Common stocks,Large cap,Utilities,"22,228,454,877.00  $",6%,15.19,2.92,1.67,Analyze
+EIX,Edison International,Common stocks,Large cap,Utilities,"22,191,387,017.00  $",4%,36.50,1.63,1.58,Analyze
+WDC,Western Digital Corp,Common stocks,Large cap,Information Technology,"22,176,740,619.00  $",1%,129.40,1.36,2.20,Analyze
+GWW,W.W. Grainger Inc,Common stocks,Large cap,Industrials,"22,156,989,157.00  $",1%,31.80,1.88,12.09,Analyze
+TSCO,Tractor Supply,Common stocks,Large cap,Consumer Discretionary,"22,136,206,871.00  $",1%,25.89,1.93,11.83,Analyze
+TER,Teradyne Inc,Common stocks,Large cap,Information Technology,"21,836,669,927.00  $",0%,28.12,7.00,9.99,Analyze
+COO,"Cooper Companies, Inc.",Common stocks,Large cap,Health Care,"21,732,027,252.00  $",0%,8.90,8.82,3.34,Analyze
+HES,Hess Corp,Common stocks,Large cap,Energy,"21,728,286,080.00  $",1%,-7.57,4.66,4.36,Analyze
+KMX,Carmax Inc,Common stocks,Large cap,Consumer Discretionary,"21,711,121,885.00  $",0%,29.29,1.58,5.01,Analyze
+IR,Ingersoll Rand Plc,Common stocks,Large cap,Industrials,"21,444,940,031.00  $",4%,25.44,4.37,3.39,Analyze
+ETR,Entergy Corp,Common stocks,Large cap,Utilities,"21,421,830,213.00  $",3%,15.44,2.12,1.96,Analyze
+AEE,Ameren Corp,Common stocks,Large cap,Utilities,"21,313,964,250.00  $",2%,24.53,3.68,2.39,Analyze
+DOV,Dover Corp,Common stocks,Large cap,Industrials,"21,292,600,620.00  $",1%,28.81,3.09,6.09,Analyze
+CZR,Caesars Entertainment Corp,Common stocks,Large cap,Consumer Discretionary,"21,196,394,458.00  $",0%,-15.35,6.10,4.26,Analyze
+K,Kellogg,Common stocks,Large cap,Consumer Staples,"21,146,281,002.00  $",4%,16.88,0.88,6.79,Analyze
+TRMB,Trimble Inc,Common stocks,Large cap,Information Technology,"21,127,865,008.00  $",0%,53.80,3.87,5.83,Analyze
+HPE,Hewlett Packard Enterprise,Common stocks,Large cap,Information Technology,"21,078,557,003.00  $",3%,-48.64,0.78,1.30,Analyze
+MGM,MGM Resorts International,Common stocks,Large cap,Consumer Discretionary,"20,889,182,346.00  $",0%,-20.14,4.05,3.20,Analyze
+VTR,"Ventas, Inc",REITs,Large cap,Real Estate,"20,871,728,611.00  $",3%,47.19,5.50,2.04,Analyze
+GNRC,Generac Holdings Inc,Common stocks,Large cap,Industrials,"20,847,537,247.00  $",0%,56.67,8.39,14.29,Analyze
+CHD,Church And Dwight Inc,Common stocks,Large cap,Consumer Staples,"20,776,121,628.00  $",1%,26.32,4.24,6.85,Analyze
+BKR,Baker Hughes Company Class A,Common stocks,Large cap,Energy,"20,621,980,800.00  $",4%,-86.10,1.03,1.20,Analyze
+KEY,Keycorp,Common stocks,Large cap,Financials,"20,593,255,082.00  $",3%,12.08,2.98,1.17,Analyze
+TFX,Teleflex Inc,Common stocks,Large cap,Health Care,"20,513,383,688.00  $",0%,61.88,8.09,6.22,Analyze
+RF,Regions Financial Corp,Common stocks,Large cap,Financials,"20,395,109,699.00  $",3%,14.03,3.17,1.15,Analyze
+MTB,M&T Bank Corp,Common stocks,Large cap,Financials,"20,169,029,104.00  $",3%,13.82,3.40,1.22,Analyze
+XYL,Xylem Inc,Common stocks,Large cap,Industrials,"20,084,721,780.00  $",1%,79.00,4.12,6.76,Analyze
+TTWO,Take Two Interactive Software Inc,Common stocks,Large cap,Communication Services,"20,073,160,842.00  $",0%,40.76,6.09,6.37,Analyze
+FE,Firstenergy Corp,Common stocks,Large cap,Utilities,"20,057,521,904.00  $",4%,15.19,1.86,2.77,Analyze
+ALB,Albemarle Corp,Common stocks,Large cap,Materials,"19,812,893,910.00  $",1%,52.62,6.33,4.63,Analyze
+EXR,Extra Space Storage Inc,REITs,Large cap,Real Estate,"19,686,845,106.00  $",2%,40.67,14.52,7.69,Analyze
+CFG,Citizens Financial Group Inc,Common stocks,Large cap,Financials,"19,431,614,412.00  $",3%,12.86,2.98,0.87,Analyze
+ESS,"Essex Property Trust, Inc",REITs,Large cap,Real Estate,"19,305,967,171.00  $",3%,32.79,12.91,3.11,Analyze
+CTLT,Catalent Inc,Common stocks,Large cap,Health Care,"19,189,634,923.00  $",0%,66.12,5.54,5.58,Analyze
+BIO,Bio Rad Laboratories Inc Class A,Common stocks,Large cap,Health Care,"19,117,993,119.00  $",0%,4.22,7.51,1.63,Analyze
+WAT,Waters Corp,Common stocks,Large cap,Health Care,"18,882,716,880.00  $",0%,35.75,7.98,80.32,Analyze
+LB,L Brands Inc,Common stocks,Large cap,Consumer Discretionary,"18,850,705,884.00  $",0%,22.26,1.00,-28.41,Analyze
+MKTX,Marketaxess Holdings Inc,Common stocks,Large cap,Financials,"18,832,656,435.00  $",1%,60.96,26.32,18.82,Analyze
+HOLX,Hologic Inc,Common stocks,Large cap,Health Care,"18,770,661,547.00  $",0%,13.49,11.88,5.71,Analyze
+BR,Broadridge Financial Solutions Inc,Common stocks,Large cap,Information Technology,"18,670,243,265.00  $",1%,35.95,3.99,13.00,Analyze
+INCY,Incyte Corp,Common stocks,Large cap,Health Care,"18,608,181,370.00  $",0%,-63.12,6.98,7.15,Analyze
+DRI,Darden Restaurants Inc,Common stocks,Large cap,Consumer Discretionary,"18,592,616,304.00  $",1%,-85.54,3.01,7.28,Analyze
+AES,AES Corp,Common stocks,Large cap,Utilities,"18,573,510,486.00  $",2%,406.25,1.92,7.09,Analyze
+EXPD,Expeditors International Of Washington,Common stocks,Large cap,Industrials,"18,463,557,096.00  $",1%,26.44,1.83,6.92,Analyze
+CMS,CMS Energy Corp,Common stocks,Large cap,Utilities,"18,326,484,207.00  $",3%,24.17,2.74,3.32,Analyze
+NVR,"NVR, Inc.",Common stocks,Large cap,Consumer Discretionary,"18,302,722,932.00  $",0%,18.89,2.29,6.04,Analyze
+PEAK,"Healthpeak Properties, Inc.",REITs,Large cap,Real Estate,"18,278,571,651.00  $",4%,44.03,11.11,2.67,Analyze
+AKAM,Akamai Technologies Inc,Common stocks,Large cap,Information Technology,"18,271,020,762.00  $",0%,32.02,5.71,4.20,Analyze
+ULTA,Ulta Beauty Inc,Common stocks,Large cap,Consumer Discretionary,"18,231,207,063.00  $",0%,102.96,1.86,9.05,Analyze
+AMCR,Amcor plc,Common stocks,Large cap,Materials,"18,228,279,152.00  $",4%,23.49,1.46,3.81,Analyze
+TYL,Tyler Technologies Inc,Common stocks,Large cap,Information Technology,"18,205,411,519.00  $",0%,92.12,16.30,9.04,Analyze
+STE,STERIS PLC,Common stocks,Large cap,Health Care,"18,131,476,823.00  $",1%,41.68,11.48,4.65,Analyze
+RJF,Raymond James Inc,Common stocks,Large cap,Financials,"17,989,207,786.00  $",1%,20.96,2.20,2.45,Analyze
+LYV,Live Nation Entertainment Inc,Common stocks,Large cap,Communication Services,"17,940,915,799.00  $",0%,-10.43,9.64,-38.09,Analyze
+JBHT,JB Hunt Transport Services Inc,Common stocks,Large cap,Industrials,"17,931,797,218.00  $",1%,32.59,1.80,6.56,Analyze
+GPC,Genuine Parts,Common stocks,Large cap,Consumer Discretionary,"17,793,198,123.00  $",3%,345.94,1.05,5.42,Analyze
+CAG,Conagra Brands Inc,Common stocks,Large cap,Consumer Staples,"17,786,830,817.00  $",3%,14.91,1.52,2.15,Analyze
+J,Jacobs Engineering Group Inc.,Common stocks,Large cap,Industrials,"17,784,079,070.00  $",1%,35.97,0.75,2.90,Analyze
+MAA,"Mid-America Apartment Communities, Inc",REITs,Large cap,Real Estate,"17,752,085,089.00  $",3%,70.12,10.58,3.00,Analyze
+ROL,Rollins Inc,Common stocks,Large cap,Industrials,"17,659,277,760.00  $",1%,68.70,8.17,19.03,Analyze
+CE,Celanese Corporation,Common stocks,Large cap,Materials,"17,630,374,617.00  $",2%,8.42,2.94,4.97,Analyze
+MPWR,Monolithic Power Systems Inc,Common stocks,Large cap,Information Technology,"17,564,085,000.00  $",1%,104.78,20.80,17.82,Analyze
+CAH,Cardinal Health Inc,Common stocks,Large cap,Health Care,"17,549,573,386.00  $",3%,12.77,0.11,8.95,Analyze
+OMC,Omnicom Group Inc,Common stocks,Large cap,Communication Services,"17,475,312,644.00  $",3%,17.94,1.32,5.45,Analyze
+CINF,Cincinnati Financial Corp,Common stocks,Large cap,Financials,"17,461,577,826.00  $",2%,14.14,2.32,1.59,Analyze
+CTXS,Citrix Systems Inc,Common stocks,Large cap,Information Technology,"17,425,191,899.00  $",1%,34.09,5.38,153.36,Analyze
+UAL,United Continental Holdings Inc,Common stocks,Large cap,Industrials,"17,304,965,024.00  $",0%,-2.58,1.63,3.33,Analyze
+DGX,Quest Diagnostics Inc,Common stocks,Large cap,Health Care,"17,283,421,821.00  $",2%,9.55,1.67,2.55,Analyze
+PTC,PTC Inc,Common stocks,Large cap,Information Technology,"17,263,411,676.00  $",0%,145.86,11.27,11.59,Analyze
+IT,Gartner Inc,Common stocks,Large cap,Information Technology,"17,230,280,942.00  $",0%,64.38,4.20,15.75,Analyze
+PFG,Principal Financial Group Inc,Common stocks,Large cap,Financials,"17,196,141,430.00  $",4%,12.47,1.17,1.05,Analyze
+IEX,IDEX Corp,Common stocks,Large cap,Industrials,"17,172,390,717.00  $",1%,45.22,7.30,6.72,Analyze
+HAL,Halliburton,Common stocks,Large cap,Energy,"17,167,901,324.00  $",1%,-10.18,1.34,3.46,Analyze
+NTAP,NetApp Inc,Common stocks,Large cap,Information Technology,"17,066,829,940.00  $",2%,28.80,3.05,35.67,Analyze
+AVY,Avery Dennison Corp,Common stocks,Large cap,Materials,"16,955,893,693.00  $",1%,31.57,1.42,11.82,Analyze
+POOL,Pool Corp,Common stocks,Large cap,Consumer Discretionary,"16,933,425,809.00  $",1%,38.38,3.92,25.35,Analyze
+BXP,"Boston Properties, Inc",REITs,Large cap,Real Estate,"16,871,613,994.00  $",4%,19.47,6.10,2.80,Analyze
+DRE,Duke Realty Corporation,REITs,Large cap,Real Estate,"16,849,386,247.00  $",2%,56.42,16.96,3.28,Analyze
+TDY,Teledyne Technologies Inc,Common stocks,Large cap,Industrials,"16,415,756,252.00  $",0%,41.52,3.06,5.17,Analyze
+MAS,Masco Corp,Common stocks,Large cap,Industrials,"16,140,673,339.00  $",1%,13.27,2.25,83.32,Analyze
+WAB,Westinghouse Air Brake Technologies,Common stocks,Large cap,Industrials,"16,095,061,950.00  $",1%,39.09,2.13,1.60,Analyze
+VTRS,Viatris Inc.,Common stocks,Large cap,Health Care,"16,030,057,247.00  $",0%,-24.25,1.34,0.71,Analyze
+EMN,Eastman Chemical,Common stocks,Large cap,Materials,"15,805,842,278.00  $",2%,32.95,1.87,2.61,Analyze
+DPZ,Dominos Pizza Inc,Common stocks,Large cap,Consumer Discretionary,"15,560,138,849.00  $",1%,31.90,2.26,-4.75,Analyze
+HBAN,Huntington Bancshares Inc,Common stocks,Large cap,Financials,"15,540,260,862.00  $",4%,13.17,3.27,1.15,Analyze
+ABMD,Abiomed Inc,Common stocks,Large cap,Health Care,"15,407,023,949.00  $",0%,79.23,18.95,12.59,Analyze
+FMC,FMC Corp,Common stocks,Large cap,Materials,"15,368,883,227.00  $",2%,28.00,3.31,5.21,Analyze
+NWS,News Corp Class B,Common stocks,Large cap,Communication Services,"15,294,420,080.00  $",1%,-5.63,1.75,0.60,Analyze
+NWSA,News Corp Class A,Common stocks,Large cap,Communication Services,"15,294,420,080.00  $",1%,-11.87,1.71,1.26,Analyze
+PKI,Perkinelmer Inc,Common stocks,Large cap,Health Care,"15,129,462,808.00  $",0%,20.61,2.44,4.02,Analyze
+PHM,Pultegroup Inc,Common stocks,Large cap,Consumer Discretionary,"15,112,172,296.00  $",1%,11.03,1.37,2.36,Analyze
+BEN,Franklin Resources Inc,Common stocks,Large cap,Financials,"15,071,139,885.00  $",4%,19.19,2.45,1.46,Analyze
+WHR,Whirlpool Corp,Common stocks,Large cap,Consumer Discretionary,"14,989,860,160.00  $",2%,10.83,0.73,3.49,Analyze
+DVN,Devon Energy Corp,Common stocks,Large cap,Energy,"14,986,231,863.00  $",2%,-6.07,3.10,5.64,Analyze
+L,Loews Corp,Common stocks,Large cap,Financials,"14,837,106,762.00  $",0%,-15.89,1.09,0.83,Analyze
+WYNN,Wynn Resorts Ltd,Common stocks,Large cap,Consumer Discretionary,"14,773,055,735.00  $",1%,-7.29,7.05,-42.80,Analyze
+CPB,Campbell Soup,Common stocks,Large cap,Consumer Staples,"14,550,508,987.00  $",3%,17.84,1.10,4.93,Analyze
+FBHS,Fortune Brands Home And Security,Common stocks,Large cap,Industrials,"14,550,166,134.00  $",1%,25.97,2.39,5.18,Analyze
+MHK,Mohawk Industries Inc,Common stocks,Large cap,Consumer Discretionary,"14,543,264,633.00  $",0%,28.12,1.52,1.70,Analyze
+PENN,Penn National Gaming Inc,Common stocks,Large cap,Consumer Discretionary,"14,506,101,914.00  $",0%,-21.71,4.05,5.47,Analyze
+XRAY,Dentsply Sirona Inc,Common stocks,Large cap,Health Care,"14,457,232,361.00  $",1%,-172.95,4.33,2.89,Analyze
+WRK,Westrock,Common stocks,Large cap,Materials,"14,366,939,698.00  $",1%,-21.35,0.82,1.32,Analyze
+SJM,J.M. Smucker,Common stocks,Large cap,Consumer Staples,"14,360,099,645.00  $",3%,14.96,1.76,1.74,Analyze
+FANG,Diamondback Energy Inc,Common stocks,Large cap,Energy,"14,355,471,617.00  $",2%,-3.35,5.10,1.72,Analyze
+WRB,WR Berkley Corp,Common stocks,Large cap,Financials,"14,290,045,705.00  $",1%,18.30,1.69,2.18,Analyze
+EVRG,Evergy Inc,Common stocks,Large cap,Utilities,"14,277,871,651.00  $",3%,23.22,2.91,1.64,Analyze
+LDOS,Leidos Holdings Inc,Common stocks,Large cap,Industrials,"14,238,619,653.00  $",1%,22.42,0.67,3.65,Analyze
+LUMN,"CenturyLink, Inc.",Common stocks,Large cap,Communication Services,"14,204,188,956.00  $",8%,-11.50,0.69,1.27,Analyze
+AAL,American Airlines Group Inc,Common stocks,Large cap,Industrials,"13,956,496,756.00  $",0%,-1.76,1.09,-1.75,Analyze
+HWM,Howmet Aerospace Inc.,Common stocks,Large cap,Industrials,"13,903,456,746.00  $",1%,53.83,2.64,3.90,Analyze
+UDR,"UDR, Inc",REITs,Large cap,Real Estate,"13,890,947,148.00  $",3%,226.43,11.19,4.20,Analyze
+LNT,Alliant Energy Corp,Common stocks,Large cap,Utilities,"13,886,802,088.00  $",3%,22.53,4.07,2.43,Analyze
+TXT,Textron Inc,Common stocks,Large cap,Industrials,"13,883,284,103.00  $",0%,45.35,0.71,2.40,Analyze
+LKQ,LKQ Corp,Common stocks,Large cap,Consumer Discretionary,"13,793,132,551.00  $",0%,21.56,1.19,2.43,Analyze
+PKG,Packaging Corp Of America,Common stocks,Large cap,Materials,"13,752,496,074.00  $",2%,29.28,2.07,4.25,Analyze
+PWR,Quanta Services Inc,Common stocks,Large cap,Industrials,"13,691,886,002.00  $",0%,30.62,1.22,3.14,Analyze
+HAS,Hasbro Inc,Common stocks,Large cap,Consumer Discretionary,"13,528,943,976.00  $",3%,60.58,2.48,4.61,Analyze
+MOS,Mosaic,Common stocks,Large cap,Materials,"13,497,743,412.00  $",1%,20.61,1.55,1.43,Analyze
+RE,Everest Re Group Ltd,Common stocks,Large cap,Financials,"13,320,261,457.00  $",2%,25.78,1.41,1.36,Analyze
+TPR,Tapestry,Common stocks,Large cap,Consumer Discretionary,"13,161,191,887.00  $",1%,-30.82,2.83,4.57,Analyze
+CNP,Centerpoint Energy Inc,Common stocks,Large cap,Utilities,"13,133,142,086.00  $",3%,-13.91,1.77,1.58,Analyze
+NLOK,NortonLifeLock Inc.,Common stocks,Large cap,Information Technology,"13,078,217,064.00  $",2%,21.80,10.54,-26.19,Analyze
+ATO,Atmos Energy Corp,Common stocks,Large cap,Utilities,"13,005,747,329.00  $",2%,20.07,4.55,1.78,Analyze
+SNA,Snap On Inc,Common stocks,Large cap,Industrials,"12,962,972,165.00  $",2%,18.80,2.01,3.31,Analyze
+AAP,Advance Auto Parts Inc,Common stocks,Large cap,Consumer Discretionary,"12,926,657,578.00  $",1%,26.27,0.72,3.64,Analyze
+GPS,Gap Inc,Common stocks,Large cap,Consumer Discretionary,"12,896,949,511.00  $",1%,-19.32,0.93,4.91,Analyze
+CHRW,"C.H. Robinson Worldwide, Inc.",Common stocks,Large cap,Industrials,"12,667,031,376.00  $",2%,24.25,0.78,6.53,Analyze
+HST,"Host Hotels & Resorts, Inc",REITs,Large cap,Real Estate,"12,661,293,655.00  $",1%,-17.61,7.82,2.04,Analyze
+FFIV,F5 Networks Inc,Common stocks,Large cap,Information Technology,"12,659,379,173.00  $",0%,38.81,5.26,4.79,Analyze
+JKHY,"Jack Henry & Associates, Inc.",Common stocks,Large cap,Information Technology,"12,439,394,254.00  $",1%,41.70,7.26,8.05,Analyze
+UHS,Universal Health Services Inc.,Common stocks,Large cap,Health Care,"12,399,315,072.00  $",0%,12.19,1.07,1.82,Analyze
+ALLE,Allegion PLC,Common stocks,Large cap,Industrials,"12,385,485,052.00  $",1%,29.11,4.52,16.88,Analyze
+LNC,Lincoln National Corp,Common stocks,Large cap,Financials,"12,338,678,213.00  $",3%,24.82,0.71,0.55,Analyze
+IPGP,IPG Photonics Corp,Common stocks,Large cap,Information Technology,"12,310,049,480.00  $",0%,77.12,10.25,4.75,Analyze
+IVZ,Invesco Ltd,Common stocks,Large cap,Financials,"12,145,245,020.00  $",2%,23.82,1.98,0.87,Analyze
+DVA,Davita Inc,Common stocks,Large cap,Health Care,"11,978,989,601.00  $",0%,15.61,1.04,8.73,Analyze
+BWA,BorgWarner Inc,Common stocks,Large cap,Consumer Discretionary,"11,977,345,116.00  $",1%,24.12,1.18,1.88,Analyze
+GL,Globe Life Inc.,Common stocks,Large cap,Financials,"11,907,305,842.00  $",1%,15.93,2.44,1.35,Analyze
+LW,Lamb Weston Holdings Inc,Common stocks,Large cap,Consumer Staples,"11,769,885,042.00  $",1%,46.49,3.35,25.80,Analyze
+IPG,Interpublic Group Of Companies Inc,Common stocks,Large cap,Communication Services,"11,657,829,401.00  $",3%,34.64,1.29,4.20,Analyze
+IRM,Iron Mountain Incorporated,REITs,Large cap,Real Estate,"11,560,075,687.00  $",6%,33.30,2.79,10.04,Analyze
+NWL,Newell Brands Inc,Common stocks,Large cap,Consumer Discretionary,"11,449,912,727.00  $",3%,-14.73,1.22,2.93,Analyze
+TAP,Molson Coors Brewing Class B,Common stocks,Large cap,Consumer Staples,"11,298,009,556.00  $",1%,-10.95,1.05,0.84,Analyze
+CBOE,"Cboe Global Markets, Inc.",Common stocks,Large cap,Financials,"11,136,913,074.00  $",2%,23.56,3.25,3.28,Analyze
+AOS,A O Smith Corp,Common stocks,Large cap,Industrials,"10,998,791,440.00  $",1%,26.15,3.80,4.88,Analyze
+WU,Western Union,Common stocks,Large cap,Information Technology,"10,749,880,043.00  $",3%,14.45,2.22,57.65,Analyze
+REG,Regency Centers Corporation,REITs,Large cap,Real Estate,"10,694,129,296.00  $",4%,110.53,10.52,1.78,Analyze
+PNR,Pentair,Common stocks,Large cap,Industrials,"10,650,204,423.00  $",1%,25.79,3.36,4.87,Analyze
+CF,CF Industries Holdings Inc,Common stocks,Large cap,Materials,"10,506,287,916.00  $",2%,33.53,2.55,3.64,Analyze
+HSIC,Henry Schein Inc,Common stocks,Large cap,Health Care,"10,405,517,505.00  $",0%,25.62,1.03,3.09,Analyze
+RHI,Robert Half,Common stocks,Large cap,Industrials,"10,043,469,276.00  $",2%,30.28,2.01,8.27,Analyze
+NI,Nisource Inc,Common stocks,Large cap,Utilities,"10,022,839,375.00  $",3%,-138.14,2.14,1.75,Analyze
+CMA,Comerica Inc,Common stocks,Large cap,Financials,"10,007,082,331.00  $",4%,11.80,3.56,1.26,Analyze
+UA,Under Armour Inc Class C,Common stocks,Mid cap,Consumer Discretionary,"9,660,969,120.00  $",0%,-8.34,2.16,2.73,Analyze
+UAA,Under Armour Inc Class A,Common stocks,Mid cap,Consumer Discretionary,"9,660,969,120.00  $",0%,-8.25,2.16,2.70,Analyze
+RL,Ralph Lauren Corp Class A,Common stocks,Mid cap,Consumer Discretionary,"9,418,998,910.00  $",1%,-21.56,2.42,2.37,Analyze
+PNW,Pinnacle West Corp,Common stocks,Mid cap,Utilities,"9,257,353,348.00  $",4%,16.72,2.58,1.63,Analyze
+NLSN,Nielsen Holdings Plc,Common stocks,Mid cap,Industrials,"9,152,431,754.00  $",1%,"-1,529.04",1.46,4.47,Analyze
+AIZ,Assurant Inc,Common stocks,Mid cap,Financials,"9,052,563,619.00  $",2%,21.16,0.90,1.50,Analyze
+ZION,Zions Bancorporation,Common stocks,Mid cap,Financials,"9,024,391,055.00  $",2%,11.12,3.31,1.14,Analyze
+KIM,Kimco Realty Corporation,REITs,Mid cap,Real Estate,"8,998,239,769.00  $",2%,9.28,7.21,1.61,Analyze
+NRG,NRG Energy Inc,Common stocks,Mid cap,Utilities,"8,852,808,475.00  $",3%,17.37,0.97,5.27,Analyze
+VNO,Vornado Realty Trust,REITs,Mid cap,Real Estate,"8,786,291,174.00  $",5%,-25.17,5.75,1.34,Analyze
+MRO,Marathon Oil Corp,Common stocks,Mid cap,Energy,"8,702,290,024.00  $",0%,-6.38,2.82,0.88,Analyze
+FRT,Federal Realty Investment Trust,REITs,Mid cap,Real Estate,"8,687,582,899.00  $",4%,70.21,10.40,3.52,Analyze
+ALK,Alaska Air Group Inc,Common stocks,Mid cap,Industrials,"8,592,765,524.00  $",0%,-6.98,3.15,2.97,Analyze
+HII,Huntington Ingalls Industries Inc,Common stocks,Mid cap,Industrials,"8,360,229,814.00  $",2%,12.17,0.89,4.46,Analyze
+JNPR,Juniper Networks Inc,Common stocks,Mid cap,Information Technology,"8,268,697,626.00  $",3%,32.05,1.86,1.82,Analyze
+DXC,DXC Technology Company,Common stocks,Mid cap,Information Technology,"8,121,548,377.00  $",0%,-2.85,0.45,1.44,Analyze
+PVH,PVH Corp,Common stocks,Mid cap,Consumer Discretionary,"7,931,227,259.00  $",3%,-7.15,1.20,1.73,Analyze
+FLIR,Flir Systems Inc,Common stocks,Mid cap,Information Technology,"7,844,798,541.00  $",1%,37.32,4.08,4.21,Analyze
+SEE,Sealed Air Corp,Common stocks,Mid cap,Materials,"7,400,699,156.00  $",1%,14.85,1.51,43.29,Analyze
+HBI,Hanesbrands Inc,Common stocks,Mid cap,Consumer Discretionary,"7,385,032,704.00  $",3%,-97.44,0.64,9.05,Analyze
+APA,Apache Corp,Common stocks,Mid cap,Energy,"7,192,705,007.00  $",0%,-1.59,1.62,-4.73,Analyze
+LEG,Leggett & Platt Inc,Common stocks,Mid cap,Consumer Discretionary,"6,778,939,429.00  $",3%,27.39,1.58,4.88,Analyze
+COG,Cabot Oil & Gas Corp,Common stocks,Mid cap,Energy,"6,706,257,569.00  $",2%,33.80,4.57,3.06,Analyze
+NCLH,Norwegian Cruise Line Holdings Ltd,Common stocks,Mid cap,Consumer Discretionary,"6,554,450,000.00  $",0%,-2.39,5.12,2.20,Analyze
+UNM,Unum Group,Common stocks,Mid cap,Financials,"5,876,546,642.00  $",3%,7.44,0.45,0.54,Analyze
+HFC,HollyFrontier Corp,Common stocks,Mid cap,Energy,"5,617,917,832.00  $",4%,-9.65,0.50,1.12,Analyze
+PRGO,Perrigo Plc,Common stocks,Mid cap,Health Care,"5,520,330,351.00  $",2%,-34.10,1.09,0.98,Analyze
+NOV,National Oilwell Varco Inc,Common stocks,Mid cap,Energy,"5,305,088,735.00  $",0%,-2.29,0.87,1.12,Analyze
