@@ -16,26 +16,33 @@ The XLE index contains industries from the Energy economic sector, which, in tur
 |Oil & Gas Transportation Services|9.74%
 |Oil Related Services and Equipment|8.59%
 
-### And the top 10 companies that constitute the 77.66% of the index are:
+### From the S&P Industry Modified Weighted Index
 
-|Company|Share|Ticker|
-|---|---|---|
-|Exxon Mobil Corporation|22.79%|XOM|
-|Chevron Corporation|21.64%|CVX|
-|EOG Resources, Inc.|5.05%|EOG|
-|Schlumberger NV|4.44%|SLB|
-|Marathon Petroleum Corporation|4.26%|SLB|
-|ConocoPhillips|4.18%|COP|
-|Phillips 66|4.15%|PSX|
-|Kinder Morgan Inc Class P|3.90%|KMI|
-|Pioneer Natural Resources Company|3.72%|PXD|
-|Valero Energy Corporation|3.55%|VLO|
+- This index breaks down into more specific industries, in our case we chose the following two indexes:
 
-We will use these top 10 companies in our industry specific analysis
+|Industry (Modified Weighted Index)|Ticker|
+|---|---|
+|SPDR S&P Oil & Gas Exploration & Production|XOP|
+|SPDR S&P Oil & Gas Equipment & Services|XES|
+
+- The preliminary analysis shows that even though the energy economic sector suffered a great loss during the COVID-19 pandemic, the Oil&Gas industry has managed to increase its stock price substantially
+
+![percentage_price_change](app_screenshots/percentage_price_change.png)
+
+
+- However, if we look at the standard deviation for each stock, we can determine that both stocks are very volatile, assuming that this particular industry is very sensitive to worldwide phenomenoms and for our particular study COVID-19 should have impacted very negatively this particular industry
+
+![percentage_price_stats](app_screenshots/percentage_price_stats.png)
+
+- Plotting the daily price line graph for both our indexes we can see that even though the pandemic had a great impact on the Oil&Gas industry, it's recovery has been equally impressive, to the point that stock price by the end of our study was well above pre-pandemic times
+- We can also conclude that this behaviour is industry wide, since both indexes available, show very similar stock behaviour
+
+![XES_daily](plot_images/XES_daily.png)![XOP_daily](plot_images/XOP_daily.png)
+
 
 # *References*
 
 XLE (2021,05,05). In ETF. https://www.etf.com/XLE#overview  
-What Are the Sectors and Industries of the S&P 500? (2021,05,05). In the balance. https://www.thebalance.com/what-are-the-sectors-and-industries-of-the-sandp-500-3957507
-
+What Are the Sectors and Industries of the S&P 500? (2021,05,05). In the balance. https://www.thebalance.com/what-are-the-sectors-and-industries-of-the-sandp-500-3957507  
+spdr-etf-listing.pdf (2021-05-05). In State Street Global Advisors SPDR. https://www.ssga.com/library-content/products/fund-docs/etfs/us/information-schedules/spdr-etf-listing.pdf
 
