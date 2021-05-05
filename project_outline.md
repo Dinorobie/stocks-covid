@@ -29,7 +29,7 @@ ___
 ## *Rough Breakdown of Tasks:*
 ___
 
-- [ ] Define start/end date for analysis Check
+- [X] Define start/end date for analysis Check
 - [ ] Explore/read API documentation Check
 - [ ] Extract and read CSV files from the source (Pandas) Check
 - [ ] Retrieve/clean data from API Check
