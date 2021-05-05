@@ -13,10 +13,11 @@ ___
 ___
 - To analyze data trends on stock prices to determine COVID-19 effects 
 - Research Questions to Answer: 
+    - [ ] Which sector have had  a better performance (increases in  stock prices) because of the pandemic?Check Graph
+    - [ ] Which sector have had  a decreased performance (decreases  in  stock prices) because of the pandemic?Check Graph
     - [ ] Which industries have had  a better performance (increases in  stock prices) because of the pandemic?
     - [ ] Which industries have had  a decreased performance (decreases  in  stock prices) because of the pandemic?
-    - [ ] How vaccines announcements influenced the stock prices for pharmaceutical companies?
-    - [ ] How vaccines announcements influenced the stock prices for hospitality companies?
+ 
 
 ## *Datasets to be Be Used:*
 ___
@@ -24,24 +25,25 @@ ___
 - Stock Information
     - QUANDL https://www.quandl.com/docs-and-help
         - Stock price information on various Stock markets
-        - Will probably focus on NYSE
 
 ## *Rough Breakdown of Tasks:*
 ___
 
 - [ ] Define start/end date for analysis Check
 - [ ] Explore/read API documentation Check
-- [ ] Extract and read CSV files from the source (Pandas) 
+- [ ] Extract and read CSV files from the source (Pandas) Check
 - [ ] Retrieve/clean data from API Check
 - [ ] Clean and format our dataset using pandas Check
 - [ ] Describe data frame Check
-- [ ] Find better and lower tickers’ performance during a period selected Check
-- [ ] Classify tickers per industry 
-- [ ] Statistics analysis
+- [ ] Find better and lower tickers’ performance during a period selected Check 3 graphs
+- [ ] Classify tickers per industry Omar
+- [ ] Statistics analysis "Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots."
 - [ ] Plot data to find tendencies (Industry, company)
 - [ ] Find insights on data analyze
 - [ ] Elaborate presentation with results
-
-
+- [ ] Create a Jupyter Notebook describing the data exploration and cleanup process
+- [ ] Create a Jupyter Notebook illustrating the final data analysis
+Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
+Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
 
 
