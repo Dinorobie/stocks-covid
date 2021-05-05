@@ -6,7 +6,7 @@
 ___
 - Omar Rivera (paste your github link here)
 - [Juan Fernandez](https://github.com/JuanjoFernandez)
-- Roberto Sepulveda (https://github.com/Robie94)
+- [Roberto Sepulveda](https://github.com/Robie94)
 - [Viviana Aragón](https://github.com/viviach)
 
 ## *Project Description*
