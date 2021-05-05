@@ -6,7 +6,7 @@
 ___
 - Omar Rivera (paste your github link here)
 - [Juan Fernandez](https://github.com/JuanjoFernandez)
-- Roberto Sepulveda (paste your github link here)
+- Roberto Sepulveda (https://github.com/Robie94)
 - [Viviana Aragón](https://github.com/viviach)
 
 ## *Project Description*
@@ -29,17 +29,16 @@ ___
 ## *Rough Breakdown of Tasks:*
 ___
 
-- [ ] Define start/end date for analysis
-- [ ] Explore/read API documentation
-- [ ] Extract and read CSV files from the source (Pandas)
-- [ ] Retrieve/clean data from API
-- [ ] Clean and format our dataset using pandas
-- [ ] Delete potential outliers
-- [ ] Describe data frame
-- [ ] Find better and lower tickers’ performance during a period selected
+- [ ] Define start/end date for analysis Check
+- [ ] Explore/read API documentation Check
+- [ ] Extract and read CSV files from the source (Pandas) 
+- [ ] Retrieve/clean data from API Check
+- [ ] Clean and format our dataset using pandas Check
+- [ ] Describe data frame Check
+- [ ] Find better and lower tickers’ performance during a period selected Check
 - [ ] Classify tickers per industry 
 - [ ] Statistics analysis
-- [ ] Plot data to find tendencies 
+- [ ] Plot data to find tendencies (Industry, company)
 - [ ] Find insights on data analyze
 - [ ] Elaborate presentation with results
 
