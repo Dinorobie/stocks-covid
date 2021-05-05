@@ -1,5 +1,3 @@
-¡[Header](/images/header.png)
-
 # **COVID-19 pandemic influence on industries performance measured by stock prices**
 
 ## *Contributors*
