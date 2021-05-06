@@ -1,6 +1,6 @@
 # NYSE Stocks & covid-19
 ![1140x500_pandemic_stocks](https://user-images.githubusercontent.com/78886087/117244187-36587f80-adfe-11eb-8f46-ffd4cc64798c.jpg)
-Image from Effects of the pandemic on the market | © shutterstock.com
+Source | © shutterstock.com
 
 ### Overview
 
