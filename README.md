@@ -7,8 +7,7 @@ Image from Effects of the pandemic on the market | © shutterstock.com
 -------------------------------------------------------------------------------------------------------------------------------------
 
 - **Objective**
-     * To Analyze the effect of COVID-19 on the US economy, by looking at the performance of stock prices of The New York 
-              Stock Exchange. Specifically, we look at the S&P 500 indexes by economic sectors, industries and companies of the US. 
+     * To Analyze the effect of COVID-19 on the stock market. Specifically, we look at the S&P 500 indexes by economic sectors, industries and companies. 
 - **Data**
      * [Stocks prices](https://www.alphavantage.co/#about): Alpha Vantage Inc. stock APIs 
      * [Index S&P 500](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-spy.pdf)
