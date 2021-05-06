@@ -1,13 +1,22 @@
-# stocks-covid
+# stocks-covid 
+![1140x500_pandemic_stocks](https://user-images.githubusercontent.com/78886087/117244187-36587f80-adfe-11eb-8f46-ffd4cc64798c.jpg)
 
-The pandemic has had multiple economic impacts around the world. These have been of different magnitude and characteristics for each country and economic activity, as well as the impact has evolved with the development of the pandemic, possibly with an effect of greater magnitude at the beginning of the pandemic compared to today.
-Understanding the magnitude and direction of the impact allows governments to identify measures, both fiscal and monetary, to avoid an economic crisis; and companies to identify business opportunities or to request for financial support.
+### Overview
 
-In view of the above, this project seeks to differentiate the economic impact of the pandemic by economic activity to identify 
-*which sectors and industries have been most affected both positively and negatively? 
-*How has the industries performed as the pandemic has evolved? and 
-*which companies…?
+-------------------------------------------------------------------------------------------------------------------------------------
 
-# Data
-To carry out our analysis, we used the Standard & Poor's stock index of the 500 large companies listed on the New York Stock Exchange or NASDAQ as a measurement variable for economic performance.
-This index measures ...
+- **Objective**
+     * To Analyze the effect of COVID-19 on the US economy, by looking at the performance of stock prices of The New York 
+              Stock Exchange. Specifically, we look at the S&P 500 indexes by economic sectors, industries and companies of the US. 
+- **Data**
+     * Stocks prices: Alpha Vantage Inc. stock APIs https://www.alphavantage.co/#about
+     * Index:  S&P 500
+     * Tickers: https://www.ssga.com/library-content/products/fund-docs/etfs/us/information-schedules/spdr-etf-listing.pdf
+- **Methodology**
+     * Simple Graph Analysis
+      * 
+- **Libraries used**
+     * Numpy, json, requests, pandas, time, matplotlib, scipy, os, IPython, datetime
+
+### Application Breakdown
+-------------------------------------------------------------------------------------------------------------------------------------
