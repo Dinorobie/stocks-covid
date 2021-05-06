@@ -10,7 +10,7 @@
               Stock Exchange. Specifically, we look at the S&P 500 indexes by economic sectors, industries and companies of the US. 
 - **Data**
      * Stocks prices: Alpha Vantage Inc. stock APIs https://www.alphavantage.co/#about
-     * Index:  S&P 500
+     * Index:  S&P 500 https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-spy.pdf
      * Tickers: https://www.ssga.com/library-content/products/fund-docs/etfs/us/information-schedules/spdr-etf-listing.pdf
 - **Methodology**
      * Simple Graph Analysis
