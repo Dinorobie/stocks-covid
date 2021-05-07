@@ -130,4 +130,4 @@ dmypy.json
 
 #Ignore sensitive files
 config.py
-api_keys.py
+api_keys
