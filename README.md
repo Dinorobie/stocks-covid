@@ -14,6 +14,13 @@ Source | © shutterstock.com
      * [Index S&P 500](https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-spy.pdf)
      * [Symbols by sector and industry](https://www.ssga.com/library-content/products/fund-docs/etfs/us/information-schedules/spdr-etf-listing.pdf)
      * [Symbols by company](https://stockmarketmba.com/stocksinthesp500.php)
+     * [4 pandemic relevant events](https://www.ajmc.com/view/a-timeline-of-covid19-developments-in-2020)
+       * 30/01/2020: The W.H.O. declared a global health emergency
+       * 11/03/2020: WHO Declares COVID-19 a Pandemic
+       * 21/07/2020: Phase I/II vaccines' promise results
+       * 08/12/2020: First coronavirus vaccine approved for use in the U.K.
+
+
 - **Methodology**
      * Simple Graphic Analysis using Matplotlib 
 - **Libraries used**
