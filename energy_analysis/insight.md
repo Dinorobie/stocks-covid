@@ -16,28 +16,40 @@ The XLE index contains industries from the Energy economic sector, which, in tur
 |Oil & Gas Transportation Services|9.74%
 |Oil Related Services and Equipment|8.59%
 
-### From the S&P Industry Modified Weighted Index
+- The top 10 stocks that constitute 77.79% of the index are:
 
-- This index breaks down into more specific industries, in our case we chose the following two indexes:
+|Ticker|Company|Percentage|
+|---|---|---|
+|XOM|Exxon Mobil Corp|22.36%|
+|CVX|Chevron Corp|22.13%|
+|COP|ConocoPhillips|4.34%|
+|EOG|EOG Resources Inc|5%|
+|KMI|Kinder Morgan Inc|3.83%|
+|SLB|Schlumberger Nv|4.49%|
+|MPC|Marathon Petroleum Corp|4.11%|
+|PSX|Phillips 66|4.21%|
+|PXD|Pioneer Natural Resource|3.86%|
+|VLO|Valero Energy Corp|3.46%|
 
-|Industry (Modified Weighted Index)|Ticker|
-|---|---|
-|SPDR S&P Oil & Gas Exploration & Production|XOP|
-|SPDR S&P Oil & Gas Equipment & Services|XES|
 
-- The preliminary analysis shows that even though the energy economic sector suffered a great loss during the COVID-19 pandemic, the Oil&Gas industry has managed to increase its stock price substantially
+- From our previous analysis we concluded that the energy economic sector suffered a loss of %41.00 during the time period, by analyzing the companies that constitute the index we can clearly see that the tendency continues, but it is interesting to notice that some companies like Pioneer Natural Resource (PXD) was able to soften the blow, a company that is heavily related to low-carbon energy investigation
 
 ![percentage_price_change](app_screenshots/percentage_price_change.png)
 
-
-- However, if we look at the standard deviation for each stock, we can determine that both stocks are very volatile, assuming that this particular industry is very sensitive to worldwide phenomenoms and for our particular study COVID-19 should have impacted very negatively this particular industry
+- However, if we look at the standard deviation for each stock, we can determine that most of the stocks are very volatile, assuming that this particular industry is very sensitive to worldwide phenomenoms and for our particular study COVID-19 should have impacted very negatively this particular industry
 
 ![percentage_price_stats](app_screenshots/percentage_price_stats.png)
 
-- Plotting the daily price line graph for both our indexes we can see that even though the pandemic had a great impact on the Oil&Gas industry, it's recovery has been equally impressive, to the point that stock price by the end of our study was well above pre-pandemic times
-- We can also conclude that this behaviour is industry wide, since both indexes available, show very similar stock behaviour
+## Bar chart analysis
+By looking at the graph we can see that there is no significant difference in the price of a stock and its performance, the general behaviour of the industry stands the same
 
-![XES_daily](plot_images/XES_daily.png)![XOP_daily](plot_images/XOP_daily.png)
+![bar_chart](plot_images/bar_chart.png)
+
+## Line graph analysis
+
+Plotting every stock together do provide very valuable insights, as we can see the stocks had a similar behaviour pre-pandemic, as the WHO announces the pandemic the stocks present a small peak, but as quarantines start around the globe, the behaviour of the stocks are somehow erratic with a notable exception of Pioneer Natural Resources (PXD) a company that starts to separate itself from the rest of the stocks. Now, what we believe is one of the most notable phenomena is how all the stocks converge to a couple of weeks after the announcement of Phase 1 vaccines testing. Every stock apparently plummets and tries to converge to a minimum value, and after that, the stock begins to stabilize and recover
+
+![bar_chart](plot_images/line_chart.png)
 
 
 # *References*
