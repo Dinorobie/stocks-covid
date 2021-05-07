@@ -41,7 +41,7 @@ The XLE index contains industries from the Energy economic sector, which, in tur
 ![percentage_price_stats](app_screenshots/percentage_price_stats.png)
 
 ## Bar chart analysis
-By looking at the graph we can see that there is no significant difference in the price of a stock and its performance, the general behaviour of the industry stands the same
+By looking at the graph we can see that there is no significant difference in the price of a stock and its performance, the relative price different stays relatively the same within the industry
 
 ![bar_chart](plot_images/bar_chart.png)
 
