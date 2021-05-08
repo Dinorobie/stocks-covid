@@ -38,7 +38,7 @@ ___________
 │   sector_breakdown.ipynb                        # piechart by economic sector
 │   Stocks & COVID-19.pdf                         # presentation pdf
 │   stock_+.ipynb                                 # analysis by economic sector
-│   test_info.csv
+│   summary.pdf                                   # project summary and results
 │   tickers.py                                    # tickers list to pull from
 │   XLE Ticker Price During Covid-19.png          # XLE index graph
 │   XLk Ticker Price During Covid-19.png          # XLK index graph
