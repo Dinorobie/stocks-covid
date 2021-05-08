@@ -33,7 +33,7 @@ ___________
 │   .gitignore                                    # ignore sensitive files
 │   config.py                                     # paste api key inside this file
 │   energy_analysis.ipynb                         # energy sector analysis
-│   project_outline.md                            # general outline for the project
+│   project_outline.md                            # first project draft (deprecated)
 │   README.md                                     # readme file 
 │   sector_breakdown.ipynb                        # piechart by economic sector
 │   Stocks & COVID-19.pdf                         # presentation pdf
