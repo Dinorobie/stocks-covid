@@ -44,7 +44,6 @@ ___________
 │   XLk Ticker Price During Covid-19.png          # XLK index graph
 |
 ├───energy_analysis                               # energy sector analysis folder
-│   │   insight.md                                # insights
 │   │
 │   ├───app_screenshots                           # app screenshots folder
 │   │       percentage_price_change.png
