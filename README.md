@@ -26,6 +26,47 @@ Source | © shutterstock.com
 - **Libraries used**
      * Numpy, json, requests, pandas, matplotlib, scipy, os, datetime, time
 
+### Repository structure
+___________
+
+``` bash
+│   .gitignore                                    # ignore sensitive files
+│   config.py                                     # paste api key inside this file
+│   energy_analysis.ipynb                         # energy sector analysis
+│   project_outline.md                            # general outline for the project
+│   README.md                                     # readme file 
+│   sector_breakdown.ipynb                        # piechart by economic sector
+│   Stocks & COVID-19.pdf                         # presentation pdf
+│   stock_+.ipynb                                 # analysis by economic sector
+│   test_info.csv
+│   tickers.py                                    # tickers list to pull from
+│   XLE Ticker Price During Covid-19.png          # XLE index graph
+│   XLk Ticker Price During Covid-19.png          # XLK index graph
+|
+├───energy_analysis                               # energy sector analysis folder
+│   │   insight.md                                # insights
+│   │
+│   ├───app_screenshots                           # app screenshots folder
+│   │       percentage_price_change.png
+│   │       percentage_price_stats.png
+│   │
+│   └───plot_images                               # saved plots from the notebook
+│           bar_chart.png
+│           line_chart.png
+│
+├───resources                                     # csv general resources
+│       stocks by company.csv
+│       stocks by industry.csv
+│       stocks by sector.csv
+│
+├───tech_analysis                                 # tech sector analysis folder
+│   │   tech_analysis.ipynb                       # tech sector notebook
+│   │
+│   └───plot_images                               # saved plots from the notebook
+│           bar_chart.png
+│           line_chart.png
+
+````
 ### Application Breakdown
 -------------------------------------------------------------------------------------------------------------------------------------
 - API calls to AlphaVantage
