@@ -32,6 +32,7 @@ ___________
 ``` bash
 │   .gitignore                                    # ignore sensitive files
 │   config.py                                     # paste api key inside this file
+|   covid19_by_country.csv                        # csv with covid-19 data, not uploaded, file too big for GitHUB
 │   energy_analysis.ipynb                         # energy sector analysis
 │   project_outline.md                            # first project draft (deprecated)
 │   README.md                                     # readme file 
