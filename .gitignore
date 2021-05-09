@@ -129,4 +129,3 @@ dmypy.json
 .pyre/
 
 #Ignore sensitive files
-config.py
